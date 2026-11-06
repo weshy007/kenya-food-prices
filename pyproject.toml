@@ -1,0 +1,17 @@
+[project]
+name = "kenya-food-market"
+version = "0.1.0"
+description = "Kenya food market price analysis for maize and beans across wholesale and retail markets"
+readme = "README.md"
+authors = [
+    { name = "Weshy Joe", email = "josephwaweru96@gmail.com" }
+]
+requires-python = ">=3.13"
+dependencies = [
+    "matplotlib>=3.11.2",
+    "pandas>=3.1.0",
+]
+
+[build-system]
+requires = ["uv_build>=0.12.5,<0.13.0"]
+build-backend = "uv_build"

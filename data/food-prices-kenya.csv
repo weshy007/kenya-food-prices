@@ -1,0 +1,2743 @@
+date,region,county,market,commodity,price_type,unit,price_kes,price_usd
+2015-01-15,Rift Valley,Kajiado,Kajiado,Beans,Retail,KG,87.3,0.96
+2015-02-15,Rift Valley,Kajiado,Kajiado,Beans,Retail,KG,81.9,0.9
+2015-03-15,Rift Valley,Kajiado,Kajiado,Beans,Retail,KG,82.2,0.89
+2015-04-15,Rift Valley,Kajiado,Kajiado,Beans,Retail,KG,85.0,0.91
+2015-05-15,Rift Valley,Kajiado,Kajiado,Beans,Retail,KG,90.0,0.94
+2015-06-15,Rift Valley,Kajiado,Kajiado,Beans,Retail,KG,95.0,0.98
+2015-07-15,Rift Valley,Kajiado,Kajiado,Beans,Retail,KG,96.0,0.94
+2015-08-15,Rift Valley,Kajiado,Kajiado,Beans,Retail,KG,91.0,0.89
+2015-09-15,Rift Valley,Kajiado,Kajiado,Beans,Retail,KG,94.0,0.89
+2015-10-15,Rift Valley,Kajiado,Kajiado,Beans,Retail,KG,96.0,0.93
+2015-11-15,Rift Valley,Kajiado,Kajiado,Beans,Retail,KG,96.67,0.95
+2015-12-15,Rift Valley,Kajiado,Kajiado,Beans,Retail,KG,91.07,0.89
+2016-01-15,Rift Valley,Kajiado,Kajiado,Beans,Retail,KG,73.0,0.71
+2016-02-15,Rift Valley,Kajiado,Kajiado,Beans,Retail,KG,73.0,0.72
+2016-03-15,Rift Valley,Kajiado,Kajiado,Beans,Retail,KG,79.17,0.78
+2016-05-15,Rift Valley,Kajiado,Kajiado,Beans,Retail,KG,83.0,0.83
+2016-06-15,Rift Valley,Kajiado,Kajiado,Beans,Retail,KG,80.0,0.79
+2016-07-15,Rift Valley,Kajiado,Kajiado,Beans,Retail,KG,80.0,0.79
+2016-08-15,Rift Valley,Kajiado,Kajiado,Beans,Retail,KG,83.0,0.82
+2016-09-15,Rift Valley,Kajiado,Kajiado,Beans,Retail,KG,87.0,0.86
+2016-10-15,Rift Valley,Kajiado,Kajiado,Beans,Retail,KG,92.0,0.91
+2016-11-15,Rift Valley,Kajiado,Kajiado,Beans,Retail,KG,94.0,0.93
+2016-12-15,Rift Valley,Kajiado,Kajiado,Beans,Retail,KG,94.0,0.92
+2017-01-15,Rift Valley,Kajiado,Kajiado,Beans,Retail,KG,91.0,0.88
+2017-02-15,Rift Valley,Kajiado,Kajiado,Beans,Retail,KG,97.0,0.94
+2017-03-15,Rift Valley,Kajiado,Kajiado,Beans,Retail,KG,91.1,0.89
+2017-04-15,Rift Valley,Kajiado,Kajiado,Beans,Retail,KG,130.0,1.26
+2017-05-15,Rift Valley,Kajiado,Kajiado,Beans,Retail,KG,120.0,1.16
+2017-06-15,Rift Valley,Kajiado,Kajiado,Beans,Retail,KG,125.0,1.21
+2017-07-15,Rift Valley,Kajiado,Kajiado,Beans,Retail,KG,120.0,1.16
+2017-08-15,Rift Valley,Kajiado,Kajiado,Beans,Retail,KG,130.0,1.25
+2017-09-15,Rift Valley,Kajiado,Kajiado,Beans,Retail,KG,135.0,1.31
+2017-10-15,Rift Valley,Kajiado,Kajiado,Beans,Retail,KG,139.0,1.35
+2017-11-15,Rift Valley,Kajiado,Kajiado,Beans,Retail,KG,140.0,1.35
+2017-12-15,Rift Valley,Kajiado,Kajiado,Beans,Retail,KG,120.0,1.16
+2018-01-15,Rift Valley,Kajiado,Kajiado,Beans,Retail,KG,119.0,1.16
+2018-02-15,Rift Valley,Kajiado,Kajiado,Beans,Retail,KG,100.0,0.99
+2018-03-15,Rift Valley,Kajiado,Kajiado,Beans,Retail,KG,95.0,0.94
+2018-04-15,Rift Valley,Kajiado,Kajiado,Beans,Retail,KG,100.0,0.99
+2018-05-15,Rift Valley,Kajiado,Kajiado,Beans,Retail,KG,80.0,0.8
+2018-06-15,Rift Valley,Kajiado,Kajiado,Beans,Retail,KG,80.0,0.79
+2018-07-15,Rift Valley,Kajiado,Kajiado,Beans,Retail,KG,77.0,0.77
+2018-08-15,Rift Valley,Kajiado,Kajiado,Beans,Retail,KG,72.0,0.71
+2018-09-15,Rift Valley,Kajiado,Kajiado,Beans,Retail,KG,71.0,0.7
+2018-10-15,Rift Valley,Kajiado,Kajiado,Beans,Retail,KG,75.0,0.74
+2018-11-15,Rift Valley,Kajiado,Kajiado,Beans,Retail,KG,78.0,0.76
+2018-12-15,Rift Valley,Kajiado,Kajiado,Beans,Retail,KG,84.0,0.82
+2019-01-15,Rift Valley,Kajiado,Kajiado,Beans,Retail,KG,91.0,0.89
+2019-02-15,Rift Valley,Kajiado,Kajiado,Beans,Retail,KG,92.0,0.92
+2019-03-15,Rift Valley,Kajiado,Kajiado,Beans,Retail,KG,90.0,0.9
+2019-04-15,Rift Valley,Kajiado,Kajiado,Beans,Retail,KG,104.0,1.03
+2019-05-15,Rift Valley,Kajiado,Kajiado,Beans,Retail,KG,103.0,1.02
+2019-06-15,Rift Valley,Kajiado,Kajiado,Beans,Retail,KG,94.0,0.92
+2019-07-15,Rift Valley,Kajiado,Kajiado,Beans,Retail,KG,99.4,0.97
+2019-08-15,Rift Valley,Kajiado,Kajiado,Beans,Retail,KG,100.2,0.97
+2019-09-15,Rift Valley,Kajiado,Kajiado,Beans,Retail,KG,105.6,1.02
+2019-10-15,Rift Valley,Kajiado,Kajiado,Beans,Retail,KG,92.0,0.89
+2019-11-15,Rift Valley,Kajiado,Kajiado,Beans,Retail,KG,88.0,0.86
+2019-12-15,Rift Valley,Kajiado,Kajiado,Beans,Retail,KG,105.0,1.03
+2015-01-15,Coast,Kilifi,Kilifi,Beans,Retail,KG,83.1,0.91
+2015-02-15,Coast,Kilifi,Kilifi,Beans,Retail,KG,87.4,0.96
+2015-03-15,Coast,Kilifi,Kilifi,Beans,Retail,KG,86.1,0.94
+2015-04-15,Coast,Kilifi,Kilifi,Beans,Retail,KG,88.9,0.95
+2015-05-15,Coast,Kilifi,Kilifi,Beans,Retail,KG,93.0,0.97
+2015-06-15,Coast,Kilifi,Kilifi,Beans,Retail,KG,95.0,0.98
+2015-07-15,Coast,Kilifi,Kilifi,Beans,Retail,KG,96.0,0.94
+2015-08-15,Coast,Kilifi,Kilifi,Beans,Retail,KG,96.0,0.94
+2015-09-15,Coast,Kilifi,Kilifi,Beans,Retail,KG,91.0,0.86
+2015-10-15,Coast,Kilifi,Kilifi,Beans,Retail,KG,87.0,0.84
+2015-11-15,Coast,Kilifi,Kilifi,Beans,Retail,KG,88.0,0.86
+2015-12-15,Coast,Kilifi,Kilifi,Beans,Retail,KG,88.0,0.86
+2016-01-15,Coast,Kilifi,Kilifi,Beans,Retail,KG,90.0,0.88
+2016-02-15,Coast,Kilifi,Kilifi,Beans,Retail,KG,87.0,0.85
+2016-03-15,Coast,Kilifi,Kilifi,Beans,Retail,KG,84.0,0.83
+2016-05-15,Coast,Kilifi,Kilifi,Beans,Retail,KG,86.0,0.85
+2016-06-15,Coast,Kilifi,Kilifi,Beans,Retail,KG,83.0,0.82
+2016-07-15,Coast,Kilifi,Kilifi,Beans,Retail,KG,89.0,0.88
+2016-08-15,Coast,Kilifi,Kilifi,Beans,Retail,KG,88.0,0.87
+2016-09-15,Coast,Kilifi,Kilifi,Beans,Retail,KG,88.0,0.87
+2016-10-15,Coast,Kilifi,Kilifi,Beans,Retail,KG,92.0,0.91
+2016-11-15,Coast,Kilifi,Kilifi,Beans,Retail,KG,92.0,0.91
+2016-12-15,Coast,Kilifi,Kilifi,Beans,Retail,KG,96.0,0.94
+2017-01-15,Coast,Kilifi,Kilifi,Beans,Retail,KG,98.0,0.94
+2017-02-15,Coast,Kilifi,Kilifi,Beans,Retail,KG,100.0,0.97
+2017-03-15,Coast,Kilifi,Kilifi,Beans,Retail,KG,120.0,1.17
+2017-04-15,Coast,Kilifi,Kilifi,Beans,Retail,KG,117.3,1.14
+2017-05-15,Coast,Kilifi,Kilifi,Beans,Retail,KG,124.1,1.2
+2017-06-15,Coast,Kilifi,Kilifi,Beans,Retail,KG,121.3,1.18
+2017-07-15,Coast,Kilifi,Kilifi,Beans,Retail,KG,125.3,1.21
+2017-08-15,Coast,Kilifi,Kilifi,Beans,Retail,KG,114.8,1.11
+2017-09-15,Coast,Kilifi,Kilifi,Beans,Retail,KG,112.8,1.1
+2017-10-15,Coast,Kilifi,Kilifi,Beans,Retail,KG,107.6,1.04
+2017-11-15,Coast,Kilifi,Kilifi,Beans,Retail,KG,115.5,1.11
+2017-12-15,Coast,Kilifi,Kilifi,Beans,Retail,KG,114.3,1.11
+2018-01-15,Coast,Kilifi,Kilifi,Beans,Retail,KG,112.6,1.09
+2018-02-15,Coast,Kilifi,Kilifi,Beans,Retail,KG,108.3,1.07
+2018-03-15,Coast,Kilifi,Kilifi,Beans,Retail,KG,104.52,1.03
+2018-04-15,Coast,Kilifi,Kilifi,Beans,Retail,KG,101.2,1.01
+2018-05-15,Coast,Kilifi,Kilifi,Beans,Retail,KG,99.5,0.99
+2018-06-15,Coast,Kilifi,Kilifi,Beans,Retail,KG,100.8,1.0
+2018-07-15,Coast,Kilifi,Kilifi,Beans,Retail,KG,92.6,0.92
+2018-08-15,Coast,Kilifi,Kilifi,Beans,Retail,KG,90.2,0.9
+2018-09-15,Coast,Kilifi,Kilifi,Beans,Retail,KG,79.8,0.79
+2018-10-15,Coast,Kilifi,Kilifi,Beans,Retail,KG,70.5,0.7
+2018-11-15,Coast,Kilifi,Kilifi,Beans,Retail,KG,80.0,0.78
+2018-12-15,Coast,Kilifi,Kilifi,Beans,Retail,KG,75.2,0.73
+2019-01-15,Coast,Kilifi,Kilifi,Beans,Retail,KG,76.0,0.75
+2019-02-15,Coast,Kilifi,Kilifi,Beans,Retail,KG,74.5,0.74
+2019-03-15,Coast,Kilifi,Kilifi,Beans,Retail,KG,76.0,0.76
+2019-04-15,Coast,Kilifi,Kilifi,Beans,Retail,KG,85.2,0.84
+2019-05-15,Coast,Kilifi,Kilifi,Beans,Retail,KG,97.5,0.97
+2019-06-15,Coast,Kilifi,Kilifi,Beans,Retail,KG,103.8,1.02
+2019-07-15,Coast,Kilifi,Kilifi,Beans,Retail,KG,119.0,1.16
+2019-08-15,Coast,Kilifi,Kilifi,Beans,Retail,KG,115.0,1.11
+2019-09-15,Coast,Kilifi,Kilifi,Beans,Retail,KG,102.1,0.98
+2019-10-15,Coast,Kilifi,Kilifi,Beans,Retail,KG,107.9,1.04
+2019-11-15,Coast,Kilifi,Kilifi,Beans,Retail,KG,113.2,1.11
+2019-12-15,Coast,Kilifi,Kilifi,Beans,Retail,KG,105.9,1.04
+2006-01-15,Eastern,Kitui,Kitui,Beans,Retail,KG,39.0,0.54
+2006-02-15,Eastern,Kitui,Kitui,Beans,Retail,KG,42.0,0.59
+2006-03-15,Eastern,Kitui,Kitui,Beans,Retail,KG,47.0,0.65
+2006-04-15,Eastern,Kitui,Kitui,Beans,Retail,KG,53.0,0.75
+2006-05-15,Eastern,Kitui,Kitui,Beans,Retail,KG,51.0,0.71
+2006-06-15,Eastern,Kitui,Kitui,Beans,Retail,KG,53.0,0.72
+2006-07-15,Eastern,Kitui,Kitui,Beans,Retail,KG,51.0,0.69
+2006-08-15,Eastern,Kitui,Kitui,Beans,Retail,KG,42.0,0.58
+2006-09-15,Eastern,Kitui,Kitui,Beans,Retail,KG,42.0,0.57
+2006-10-15,Eastern,Kitui,Kitui,Beans,Retail,KG,44.0,0.61
+2006-11-15,Eastern,Kitui,Kitui,Beans,Retail,KG,44.0,0.62
+2006-12-15,Eastern,Kitui,Kitui,Beans,Retail,KG,44.0,0.63
+2007-01-15,Eastern,Kitui,Kitui,Beans,Retail,KG,37.0,0.53
+2007-02-15,Eastern,Kitui,Kitui,Beans,Retail,KG,30.0,0.44
+2007-03-15,Eastern,Kitui,Kitui,Beans,Retail,KG,23.0,0.33
+2007-04-15,Eastern,Kitui,Kitui,Beans,Retail,KG,30.0,0.44
+2007-05-15,Eastern,Kitui,Kitui,Beans,Retail,KG,34.0,0.51
+2007-06-15,Eastern,Kitui,Kitui,Beans,Retail,KG,35.0,0.53
+2007-07-15,Eastern,Kitui,Kitui,Beans,Retail,KG,35.0,0.52
+2007-08-15,Eastern,Kitui,Kitui,Beans,Retail,KG,35.0,0.52
+2007-09-15,Eastern,Kitui,Kitui,Beans,Retail,KG,35.0,0.52
+2007-10-15,Eastern,Kitui,Kitui,Beans,Retail,KG,35.0,0.53
+2007-11-15,Eastern,Kitui,Kitui,Beans,Retail,KG,40.0,0.6
+2007-12-15,Eastern,Kitui,Kitui,Beans,Retail,KG,50.0,0.8
+2008-01-15,Eastern,Kitui,Kitui,Beans,Retail,KG,55.0,0.81
+2008-02-15,Eastern,Kitui,Kitui,Beans,Retail,KG,60.0,0.86
+2008-03-15,Eastern,Kitui,Kitui,Beans,Retail,KG,60.0,0.92
+2008-04-15,Eastern,Kitui,Kitui,Beans,Retail,KG,40.0,0.65
+2008-05-15,Eastern,Kitui,Kitui,Beans,Retail,KG,50.0,0.8
+2008-06-15,Eastern,Kitui,Kitui,Beans,Retail,KG,55.0,0.86
+2008-07-15,Eastern,Kitui,Kitui,Beans,Retail,KG,70.0,1.04
+2008-08-15,Eastern,Kitui,Kitui,Beans,Retail,KG,70.0,1.04
+2008-09-15,Eastern,Kitui,Kitui,Beans,Retail,KG,70.0,0.99
+2008-10-15,Eastern,Kitui,Kitui,Beans,Retail,KG,80.0,1.06
+2008-11-15,Eastern,Kitui,Kitui,Beans,Retail,KG,80.0,1.03
+2008-12-15,Eastern,Kitui,Kitui,Beans,Retail,KG,65.0,0.84
+2009-01-15,Eastern,Kitui,Kitui,Beans,Retail,KG,65.0,0.81
+2009-02-15,Eastern,Kitui,Kitui,Beans,Retail,KG,65.0,0.82
+2009-03-15,Eastern,Kitui,Kitui,Beans,Retail,KG,65.0,0.81
+2009-04-15,Eastern,Kitui,Kitui,Beans,Retail,KG,70.0,0.88
+2009-05-15,Eastern,Kitui,Kitui,Beans,Retail,KG,75.0,0.96
+2009-06-15,Eastern,Kitui,Kitui,Beans,Retail,KG,80.0,1.03
+2009-07-15,Eastern,Kitui,Kitui,Beans,Retail,KG,70.0,0.91
+2009-08-15,Eastern,Kitui,Kitui,Beans,Retail,KG,60.0,0.79
+2009-09-15,Eastern,Kitui,Kitui,Beans,Retail,KG,60.0,0.79
+2009-10-15,Eastern,Kitui,Kitui,Beans,Retail,KG,60.0,0.8
+2009-11-15,Eastern,Kitui,Kitui,Beans,Retail,KG,60.0,0.81
+2009-12-15,Eastern,Kitui,Kitui,Beans,Retail,KG,60.0,0.8
+2010-01-15,Eastern,Kitui,Kitui,Beans,Retail,KG,60.0,0.79
+2010-02-15,Eastern,Kitui,Kitui,Beans,Retail,KG,50.0,0.65
+2010-03-15,Eastern,Kitui,Kitui,Beans,Retail,KG,50.0,0.65
+2010-04-15,Eastern,Kitui,Kitui,Beans,Retail,KG,45.0,0.59
+2010-05-15,Eastern,Kitui,Kitui,Beans,Retail,KG,45.0,0.57
+2010-06-15,Eastern,Kitui,Kitui,Beans,Retail,KG,40.0,0.5
+2010-07-15,Eastern,Kitui,Kitui,Beans,Retail,KG,45.0,0.55
+2010-08-15,Eastern,Kitui,Kitui,Beans,Retail,KG,50.0,0.62
+2010-09-15,Eastern,Kitui,Kitui,Beans,Retail,KG,50.0,0.62
+2010-10-15,Eastern,Kitui,Kitui,Beans,Retail,KG,60.0,0.75
+2010-11-15,Eastern,Kitui,Kitui,Beans,Retail,KG,60.0,0.75
+2010-12-15,Eastern,Kitui,Kitui,Beans,Retail,KG,60.0,0.75
+2011-01-15,Eastern,Kitui,Kitui,Beans,Retail,KG,60.0,0.74
+2011-02-15,Eastern,Kitui,Kitui,Beans,Retail,KG,70.0,0.86
+2011-03-15,Eastern,Kitui,Kitui,Beans,Retail,KG,70.0,0.82
+2011-04-15,Eastern,Kitui,Kitui,Beans,Retail,KG,80.0,0.96
+2011-05-15,Eastern,Kitui,Kitui,Beans,Retail,KG,85.0,0.99
+2011-06-15,Eastern,Kitui,Kitui,Beans,Retail,KG,85.0,0.96
+2011-07-15,Eastern,Kitui,Kitui,Beans,Retail,KG,85.0,0.95
+2011-08-15,Eastern,Kitui,Kitui,Beans,Retail,KG,86.0,0.93
+2011-09-15,Eastern,Kitui,Kitui,Beans,Retail,KG,75.0,0.79
+2011-10-15,Eastern,Kitui,Kitui,Beans,Retail,KG,77.47,0.78
+2011-11-15,Eastern,Kitui,Kitui,Beans,Retail,KG,76.53,0.82
+2011-12-15,Eastern,Kitui,Kitui,Beans,Retail,KG,96.27,1.13
+2012-01-15,Eastern,Kitui,Kitui,Beans,Retail,KG,72.0,0.83
+2012-02-15,Eastern,Kitui,Kitui,Beans,Retail,KG,72.0,0.87
+2012-03-15,Eastern,Kitui,Kitui,Beans,Retail,KG,74.31,0.9
+2012-04-15,Eastern,Kitui,Kitui,Beans,Retail,KG,78.35,0.94
+2012-05-15,Eastern,Kitui,Kitui,Beans,Retail,KG,77.86,0.93
+2012-06-15,Eastern,Kitui,Kitui,Beans,Retail,KG,83.0,0.98
+2012-07-15,Eastern,Kitui,Kitui,Beans,Retail,KG,82.0,0.98
+2012-08-15,Eastern,Kitui,Kitui,Beans,Retail,KG,81.0,0.97
+2012-09-15,Eastern,Kitui,Kitui,Beans,Retail,KG,84.0,0.99
+2012-10-15,Eastern,Kitui,Kitui,Beans,Retail,KG,80.0,0.94
+2012-11-15,Eastern,Kitui,Kitui,Beans,Retail,KG,81.0,0.95
+2012-12-15,Eastern,Kitui,Kitui,Beans,Retail,KG,77.0,0.89
+2013-01-15,Eastern,Kitui,Kitui,Beans,Retail,KG,60.0,0.69
+2013-02-15,Eastern,Kitui,Kitui,Beans,Retail,KG,65.6,0.75
+2013-03-15,Eastern,Kitui,Kitui,Beans,Retail,KG,67.0,0.78
+2013-04-15,Eastern,Kitui,Kitui,Beans,Retail,KG,73.0,0.87
+2013-05-15,Eastern,Kitui,Kitui,Beans,Retail,KG,76.0,0.91
+2013-06-15,Eastern,Kitui,Kitui,Beans,Retail,KG,75.0,0.88
+2013-07-15,Eastern,Kitui,Kitui,Beans,Retail,KG,71.0,0.82
+2013-08-15,Eastern,Kitui,Kitui,Beans,Retail,KG,74.0,0.85
+2013-09-15,Eastern,Kitui,Kitui,Beans,Retail,KG,78.0,0.89
+2013-10-15,Eastern,Kitui,Kitui,Beans,Retail,KG,77.0,0.91
+2013-11-15,Eastern,Kitui,Kitui,Beans,Retail,KG,78.0,0.9
+2013-12-15,Eastern,Kitui,Kitui,Beans,Retail,KG,73.0,0.85
+2014-01-15,Eastern,Kitui,Kitui,Beans,Retail,KG,74.0,0.86
+2014-02-15,Eastern,Kitui,Kitui,Beans,Retail,KG,78.75,0.91
+2014-03-15,Eastern,Kitui,Kitui,Beans,Retail,KG,79.0,0.91
+2014-04-15,Eastern,Kitui,Kitui,Beans,Retail,KG,80.0,0.92
+2014-05-15,Eastern,Kitui,Kitui,Beans,Retail,KG,81.0,0.93
+2014-06-15,Eastern,Kitui,Kitui,Beans,Retail,KG,81.0,0.92
+2014-07-15,Eastern,Kitui,Kitui,Beans,Retail,KG,77.0,0.88
+2014-08-15,Eastern,Kitui,Kitui,Beans,Retail,KG,75.0,0.85
+2014-09-15,Eastern,Kitui,Kitui,Beans,Retail,KG,72.5,0.82
+2014-10-15,Eastern,Kitui,Kitui,Beans,Retail,KG,72.5,0.82
+2014-11-15,Eastern,Kitui,Kitui,Beans,Retail,KG,76.0,0.85
+2014-12-15,Eastern,Kitui,Kitui,Beans,Retail,KG,66.0,0.73
+2015-01-15,Eastern,Kitui,Kitui,Beans,Retail,KG,69.0,0.76
+2015-02-15,Eastern,Kitui,Kitui,Beans,Retail,KG,71.0,0.78
+2015-03-15,Eastern,Kitui,Kitui,Beans,Retail,KG,75.0,0.82
+2015-04-15,Eastern,Kitui,Kitui,Beans,Retail,KG,86.0,0.92
+2015-05-15,Eastern,Kitui,Kitui,Beans,Retail,KG,90.0,0.94
+2015-06-15,Eastern,Kitui,Kitui,Beans,Retail,KG,91.0,0.94
+2015-07-15,Eastern,Kitui,Kitui,Beans,Retail,KG,79.0,0.78
+2015-08-15,Eastern,Kitui,Kitui,Beans,Retail,KG,78.0,0.76
+2015-09-15,Eastern,Kitui,Kitui,Beans,Retail,KG,74.0,0.7
+2015-10-15,Eastern,Kitui,Kitui,Beans,Retail,KG,79.0,0.77
+2015-11-15,Eastern,Kitui,Kitui,Beans,Retail,KG,78.0,0.76
+2015-12-15,Eastern,Kitui,Kitui,Beans,Retail,KG,77.0,0.75
+2016-01-15,Eastern,Kitui,Kitui,Beans,Retail,KG,73.0,0.71
+2016-02-15,Eastern,Kitui,Kitui,Beans,Retail,KG,74.0,0.73
+2016-03-15,Eastern,Kitui,Kitui,Beans,Retail,KG,72.0,0.71
+2016-04-15,Eastern,Kitui,Kitui,Beans,Retail,KG,71.0,0.7
+2016-05-15,Eastern,Kitui,Kitui,Beans,Retail,KG,72.0,0.72
+2016-06-15,Eastern,Kitui,Kitui,Beans,Retail,KG,73.0,0.72
+2016-07-15,Eastern,Kitui,Kitui,Beans,Retail,KG,75.0,0.74
+2016-08-15,Eastern,Kitui,Kitui,Beans,Retail,KG,78.0,0.77
+2016-09-15,Eastern,Kitui,Kitui,Beans,Retail,KG,73.0,0.72
+2016-10-15,Eastern,Kitui,Kitui,Beans,Retail,KG,77.5,0.77
+2016-11-15,Eastern,Kitui,Kitui,Beans,Retail,KG,77.5,0.76
+2016-12-15,Eastern,Kitui,Kitui,Beans,Retail,KG,76.5,0.75
+2017-01-15,Eastern,Kitui,Kitui,Beans,Retail,KG,79.0,0.76
+2017-02-15,Eastern,Kitui,Kitui,Beans,Retail,KG,86.0,0.83
+2017-03-15,Eastern,Kitui,Kitui,Beans,Retail,KG,91.2,0.89
+2017-04-15,Eastern,Kitui,Kitui,Beans,Retail,KG,93.0,0.9
+2017-05-15,Eastern,Kitui,Kitui,Beans,Retail,KG,89.0,0.86
+2017-06-15,Eastern,Kitui,Kitui,Beans,Retail,KG,91.0,0.88
+2017-07-15,Eastern,Kitui,Kitui,Beans,Retail,KG,92.0,0.89
+2017-08-15,Eastern,Kitui,Kitui,Beans,Retail,KG,83.0,0.8
+2017-09-15,Eastern,Kitui,Kitui,Beans,Retail,KG,80.0,0.78
+2017-10-15,Eastern,Kitui,Kitui,Beans,Retail,KG,89.0,0.86
+2017-11-15,Eastern,Kitui,Kitui,Beans,Retail,KG,83.0,0.8
+2017-12-15,Eastern,Kitui,Kitui,Beans,Retail,KG,82.0,0.8
+2018-01-15,Eastern,Kitui,Kitui,Beans,Retail,KG,79.1,0.77
+2018-02-15,Eastern,Kitui,Kitui,Beans,Retail,KG,80.0,0.79
+2018-03-15,Eastern,Kitui,Kitui,Beans,Retail,KG,82.0,0.81
+2018-04-15,Eastern,Kitui,Kitui,Beans,Retail,KG,79.0,0.79
+2018-05-15,Eastern,Kitui,Kitui,Beans,Retail,KG,73.0,0.73
+2018-06-15,Eastern,Kitui,Kitui,Beans,Retail,KG,74.0,0.73
+2018-07-15,Eastern,Kitui,Kitui,Beans,Retail,KG,73.4,0.73
+2018-08-15,Eastern,Kitui,Kitui,Beans,Retail,KG,76.7,0.76
+2018-09-15,Eastern,Kitui,Kitui,Beans,Retail,KG,76.9,0.76
+2018-10-15,Eastern,Kitui,Kitui,Beans,Retail,KG,81.0,0.8
+2018-11-15,Eastern,Kitui,Kitui,Beans,Retail,KG,71.0,0.69
+2018-12-15,Eastern,Kitui,Kitui,Beans,Retail,KG,66.1,0.65
+2019-01-15,Eastern,Kitui,Kitui,Beans,Retail,KG,71.0,0.7
+2019-02-15,Eastern,Kitui,Kitui,Beans,Retail,KG,69.0,0.69
+2019-03-15,Eastern,Kitui,Kitui,Beans,Retail,KG,70.0,0.7
+2019-04-15,Eastern,Kitui,Kitui,Beans,Retail,KG,77.0,0.76
+2019-05-15,Eastern,Kitui,Kitui,Beans,Retail,KG,80.0,0.79
+2019-06-15,Eastern,Kitui,Kitui,Beans,Retail,KG,85.0,0.83
+2019-07-15,Eastern,Kitui,Kitui,Beans,Retail,KG,87.6,0.85
+2019-08-15,Eastern,Kitui,Kitui,Beans,Retail,KG,93.1,0.9
+2019-09-15,Eastern,Kitui,Kitui,Beans,Retail,KG,89.8,0.87
+2019-10-15,Eastern,Kitui,Kitui,Beans,Retail,KG,87.4,0.84
+2019-11-15,Eastern,Kitui,Kitui,Beans,Retail,KG,92.3,0.91
+2019-12-15,Eastern,Kitui,Kitui,Beans,Retail,KG,89.3,0.88
+2015-01-15,Rift Valley,Baringo,Marigat,Beans,Retail,KG,104.0,1.14
+2015-02-15,Rift Valley,Baringo,Marigat,Beans,Retail,KG,107.0,1.17
+2015-03-15,Rift Valley,Baringo,Marigat,Beans,Retail,KG,112.0,1.22
+2015-04-15,Rift Valley,Baringo,Marigat,Beans,Retail,KG,105.0,1.12
+2015-05-15,Rift Valley,Baringo,Marigat,Beans,Retail,KG,106.0,1.11
+2015-06-15,Rift Valley,Baringo,Marigat,Beans,Retail,KG,113.0,1.16
+2015-07-15,Rift Valley,Baringo,Marigat,Beans,Retail,KG,105.0,1.03
+2015-08-15,Rift Valley,Baringo,Marigat,Beans,Retail,KG,102.0,1.0
+2015-09-15,Rift Valley,Baringo,Marigat,Beans,Retail,KG,102.0,0.97
+2015-10-15,Rift Valley,Baringo,Marigat,Beans,Retail,KG,103.0,1.0
+2015-11-15,Rift Valley,Baringo,Marigat,Beans,Retail,KG,94.0,0.92
+2015-12-15,Rift Valley,Baringo,Marigat,Beans,Retail,KG,101.0,0.99
+2016-01-15,Rift Valley,Baringo,Marigat,Beans,Retail,KG,108.0,1.06
+2016-02-15,Rift Valley,Baringo,Marigat,Beans,Retail,KG,97.0,0.95
+2016-03-15,Rift Valley,Baringo,Marigat,Beans,Retail,KG,96.0,0.95
+2016-05-15,Rift Valley,Baringo,Marigat,Beans,Retail,KG,97.0,0.96
+2016-06-15,Rift Valley,Baringo,Marigat,Beans,Retail,KG,90.0,0.89
+2016-07-15,Rift Valley,Baringo,Marigat,Beans,Retail,KG,103.0,1.02
+2016-08-15,Rift Valley,Baringo,Marigat,Beans,Retail,KG,94.0,0.93
+2016-09-15,Rift Valley,Baringo,Marigat,Beans,Retail,KG,90.0,0.89
+2016-10-15,Rift Valley,Baringo,Marigat,Beans,Retail,KG,98.0,0.97
+2016-11-15,Rift Valley,Baringo,Marigat,Beans,Retail,KG,123.0,1.21
+2016-12-15,Rift Valley,Baringo,Marigat,Beans,Retail,KG,106.0,1.04
+2017-01-15,Rift Valley,Baringo,Marigat,Beans,Retail,KG,108.0,1.04
+2017-02-15,Rift Valley,Baringo,Marigat,Beans,Retail,KG,112.0,1.08
+2017-03-15,Rift Valley,Baringo,Marigat,Beans,Retail,KG,114.0,1.11
+2017-04-15,Rift Valley,Baringo,Marigat,Beans,Retail,KG,127.0,1.23
+2017-05-15,Rift Valley,Baringo,Marigat,Beans,Retail,KG,138.0,1.34
+2017-06-15,Rift Valley,Baringo,Marigat,Beans,Retail,KG,129.0,1.25
+2017-07-15,Rift Valley,Baringo,Marigat,Beans,Retail,KG,118.0,1.14
+2017-08-15,Rift Valley,Baringo,Marigat,Beans,Retail,KG,120.0,1.16
+2017-09-15,Rift Valley,Baringo,Marigat,Beans,Retail,KG,104.0,1.01
+2017-10-15,Rift Valley,Baringo,Marigat,Beans,Retail,KG,108.0,1.05
+2017-11-15,Rift Valley,Baringo,Marigat,Beans,Retail,KG,121.0,1.17
+2017-12-15,Rift Valley,Baringo,Marigat,Beans,Retail,KG,120.0,1.16
+2018-01-15,Rift Valley,Baringo,Marigat,Beans,Retail,KG,106.0,1.03
+2018-02-15,Rift Valley,Baringo,Marigat,Beans,Retail,KG,111.0,1.1
+2018-03-15,Rift Valley,Baringo,Marigat,Beans,Retail,KG,112.0,1.11
+2018-04-15,Rift Valley,Baringo,Marigat,Beans,Retail,KG,113.0,1.12
+2018-05-15,Rift Valley,Baringo,Marigat,Beans,Retail,KG,105.0,1.05
+2018-06-15,Rift Valley,Baringo,Marigat,Beans,Retail,KG,108.0,1.07
+2018-07-15,Rift Valley,Baringo,Marigat,Beans,Retail,KG,98.0,0.98
+2018-08-15,Rift Valley,Baringo,Marigat,Beans,Retail,KG,100.0,0.99
+2018-09-15,Rift Valley,Baringo,Marigat,Beans,Retail,KG,103.0,1.02
+2018-10-15,Rift Valley,Baringo,Marigat,Beans,Retail,KG,103.0,1.02
+2018-11-15,Rift Valley,Baringo,Marigat,Beans,Retail,KG,105.0,1.02
+2018-12-15,Rift Valley,Baringo,Marigat,Beans,Retail,KG,107.0,1.04
+2019-01-15,Rift Valley,Baringo,Marigat,Beans,Retail,KG,109.0,1.07
+2019-02-15,Rift Valley,Baringo,Marigat,Beans,Retail,KG,111.0,1.11
+2019-03-15,Rift Valley,Baringo,Marigat,Beans,Retail,KG,111.0,1.11
+2019-04-15,Rift Valley,Baringo,Marigat,Beans,Retail,KG,117.0,1.16
+2019-05-15,Rift Valley,Baringo,Marigat,Beans,Retail,KG,105.0,1.04
+2019-06-15,Rift Valley,Baringo,Marigat,Beans,Retail,KG,121.0,1.19
+2019-07-15,Rift Valley,Baringo,Marigat,Beans,Retail,KG,139.2,1.35
+2019-08-15,Rift Valley,Baringo,Marigat,Beans,Retail,KG,126.3,1.22
+2019-09-15,Rift Valley,Baringo,Marigat,Beans,Retail,KG,113.0,1.09
+2019-10-15,Rift Valley,Baringo,Marigat,Beans,Retail,KG,109.0,1.05
+2019-11-15,Rift Valley,Baringo,Marigat,Beans,Retail,KG,108.0,1.06
+2019-12-15,Rift Valley,Baringo,Marigat,Beans,Retail,KG,115.0,1.13
+2015-01-15,North Eastern,Garissa,Garissa,Maize,Retail,KG,65.0,0.71
+2015-02-15,North Eastern,Garissa,Garissa,Maize,Retail,KG,65.0,0.71
+2015-03-15,North Eastern,Garissa,Garissa,Maize,Retail,KG,65.0,0.71
+2015-04-15,North Eastern,Garissa,Garissa,Maize,Retail,KG,65.0,0.7
+2015-05-15,North Eastern,Garissa,Garissa,Maize,Retail,KG,60.0,0.63
+2015-06-15,North Eastern,Garissa,Garissa,Maize,Retail,KG,50.0,0.51
+2015-07-15,North Eastern,Garissa,Garissa,Maize,Retail,KG,50.0,0.49
+2015-08-15,North Eastern,Garissa,Garissa,Maize,Retail,KG,50.0,0.49
+2015-09-15,North Eastern,Garissa,Garissa,Maize,Retail,KG,50.0,0.47
+2015-10-15,North Eastern,Garissa,Garissa,Maize,Retail,KG,50.0,0.48
+2015-11-15,North Eastern,Garissa,Garissa,Maize,Retail,KG,50.0,0.49
+2015-12-15,North Eastern,Garissa,Garissa,Maize,Retail,KG,50.0,0.49
+2016-01-15,North Eastern,Garissa,Garissa,Maize,Retail,KG,50.0,0.49
+2016-02-15,North Eastern,Garissa,Garissa,Maize,Retail,KG,50.0,0.49
+2016-03-15,North Eastern,Garissa,Garissa,Maize,Retail,KG,50.0,0.49
+2016-05-15,North Eastern,Garissa,Garissa,Maize,Retail,KG,51.0,0.51
+2016-06-15,North Eastern,Garissa,Garissa,Maize,Retail,KG,60.0,0.59
+2016-07-15,North Eastern,Garissa,Garissa,Maize,Retail,KG,50.0,0.49
+2016-08-15,North Eastern,Garissa,Garissa,Maize,Retail,KG,50.0,0.49
+2016-09-15,North Eastern,Garissa,Garissa,Maize,Retail,KG,50.0,0.49
+2016-10-15,North Eastern,Garissa,Garissa,Maize,Retail,KG,55.0,0.54
+2016-11-15,North Eastern,Garissa,Garissa,Maize,Retail,KG,55.0,0.54
+2016-12-15,North Eastern,Garissa,Garissa,Maize,Retail,KG,55.0,0.54
+2017-01-15,North Eastern,Garissa,Garissa,Maize,Retail,KG,55.0,0.53
+2017-02-15,North Eastern,Garissa,Garissa,Maize,Retail,KG,55.0,0.53
+2017-03-15,North Eastern,Garissa,Garissa,Maize,Retail,KG,59.0,0.57
+2017-04-15,North Eastern,Garissa,Garissa,Maize,Retail,KG,60.0,0.58
+2017-05-15,North Eastern,Garissa,Garissa,Maize,Retail,KG,50.0,0.49
+2017-06-15,North Eastern,Garissa,Garissa,Maize,Retail,KG,60.0,0.58
+2017-07-15,North Eastern,Garissa,Garissa,Maize,Retail,KG,60.0,0.58
+2017-08-15,North Eastern,Garissa,Garissa,Maize,Retail,KG,65.0,0.63
+2017-09-15,North Eastern,Garissa,Garissa,Maize,Retail,KG,65.0,0.63
+2017-10-15,North Eastern,Garissa,Garissa,Maize,Retail,KG,65.0,0.63
+2017-11-15,North Eastern,Garissa,Garissa,Maize,Retail,KG,65.0,0.63
+2017-12-15,North Eastern,Garissa,Garissa,Maize,Retail,KG,65.0,0.63
+2018-01-15,North Eastern,Garissa,Garissa,Maize,Retail,KG,65.0,0.63
+2018-02-15,North Eastern,Garissa,Garissa,Maize,Retail,KG,65.0,0.64
+2018-03-15,North Eastern,Garissa,Garissa,Maize,Retail,KG,65.0,0.64
+2018-04-15,North Eastern,Garissa,Garissa,Maize,Retail,KG,80.0,0.8
+2018-05-15,North Eastern,Garissa,Garissa,Maize,Retail,KG,60.0,0.6
+2018-06-15,North Eastern,Garissa,Garissa,Maize,Retail,KG,60.0,0.59
+2018-07-15,North Eastern,Garissa,Garissa,Maize,Retail,KG,60.0,0.6
+2018-08-15,North Eastern,Garissa,Garissa,Maize,Retail,KG,60.0,0.6
+2018-09-15,North Eastern,Garissa,Garissa,Maize,Retail,KG,60.0,0.6
+2018-10-15,North Eastern,Garissa,Garissa,Maize,Retail,KG,60.0,0.6
+2018-11-15,North Eastern,Garissa,Garissa,Maize,Retail,KG,60.0,0.58
+2018-12-15,North Eastern,Garissa,Garissa,Maize,Retail,KG,60.0,0.59
+2019-01-15,North Eastern,Garissa,Garissa,Maize,Retail,KG,65.0,0.64
+2019-02-15,North Eastern,Garissa,Garissa,Maize,Retail,KG,65.0,0.65
+2019-03-15,North Eastern,Garissa,Garissa,Maize,Retail,KG,65.0,0.65
+2019-04-15,North Eastern,Garissa,Garissa,Maize,Retail,KG,65.0,0.64
+2019-05-15,North Eastern,Garissa,Garissa,Maize,Retail,KG,65.0,0.64
+2019-06-15,North Eastern,Garissa,Garissa,Maize,Retail,KG,67.0,0.66
+2019-07-15,North Eastern,Garissa,Garissa,Maize,Retail,KG,68.0,0.66
+2019-08-15,North Eastern,Garissa,Garissa,Maize,Retail,KG,68.0,0.66
+2019-09-15,North Eastern,Garissa,Garissa,Maize,Retail,KG,68.0,0.66
+2019-10-15,North Eastern,Garissa,Garissa,Maize,Retail,KG,67.0,0.65
+2019-11-15,North Eastern,Garissa,Garissa,Maize,Retail,KG,68.0,0.67
+2019-12-15,North Eastern,Garissa,Garissa,Maize,Retail,KG,68.0,0.67
+2015-01-15,,,Hola,Maize,Retail,KG,35.0,0.38
+2015-02-15,,,Hola,Maize,Retail,KG,35.0,0.38
+2015-03-15,,,Hola,Maize,Retail,KG,31.0,0.34
+2015-04-15,,,Hola,Maize,Retail,KG,31.0,0.33
+2015-05-15,,,Hola,Maize,Retail,KG,38.0,0.4
+2015-06-15,,,Hola,Maize,Retail,KG,36.0,0.37
+2015-07-15,,,Hola,Maize,Retail,KG,42.0,0.41
+2015-08-15,,,Hola,Maize,Retail,KG,41.0,0.4
+2015-09-15,,,Hola,Maize,Retail,KG,39.25,0.37
+2015-10-15,,,Hola,Maize,Retail,KG,31.25,0.3
+2015-11-15,,,Hola,Maize,Retail,KG,44.47,0.43
+2015-12-15,,,Hola,Maize,Retail,KG,42.5,0.42
+2016-01-15,,,Hola,Maize,Retail,KG,39.17,0.38
+2016-02-15,,,Hola,Maize,Retail,KG,39.38,0.39
+2016-03-15,,,Hola,Maize,Retail,KG,38.35,0.38
+2016-05-15,,,Hola,Maize,Retail,KG,41.67,0.41
+2016-06-15,,,Hola,Maize,Retail,KG,41.7,0.41
+2016-07-15,,,Hola,Maize,Retail,KG,49.54,0.49
+2016-08-15,,,Hola,Maize,Retail,KG,53.45,0.53
+2016-09-15,,,Hola,Maize,Retail,KG,54.0,0.53
+2016-10-15,,,Hola,Maize,Retail,KG,58.0,0.57
+2016-11-15,,,Hola,Maize,Retail,KG,50.0,0.49
+2016-12-15,,,Hola,Maize,Retail,KG,50.0,0.49
+2017-01-15,,,Hola,Maize,Retail,KG,53.2,0.51
+2017-02-15,,,Hola,Maize,Retail,KG,54.5,0.53
+2017-03-15,,,Hola,Maize,Retail,KG,57.3,0.56
+2017-04-15,,,Hola,Maize,Retail,KG,56.1,0.54
+2017-05-15,,,Hola,Maize,Retail,KG,60.0,0.58
+2017-06-15,,,Hola,Maize,Retail,KG,80.0,0.78
+2017-07-15,,,Hola,Maize,Retail,KG,65.0,0.63
+2017-08-15,,,Hola,Maize,Retail,KG,55.9,0.54
+2017-09-15,,,Hola,Maize,Retail,KG,64.0,0.62
+2017-10-15,,,Hola,Maize,Retail,KG,60.0,0.58
+2017-11-15,,,Hola,Maize,Retail,KG,50.83,0.49
+2017-12-15,,,Hola,Maize,Retail,KG,45.0,0.44
+2018-01-15,,,Hola,Maize,Retail,KG,55.0,0.53
+2018-02-15,,,Hola,Maize,Retail,KG,55.0,0.54
+2018-03-15,,,Hola,Maize,Retail,KG,58.0,0.57
+2018-04-15,,,Hola,Maize,Retail,KG,50.0,0.5
+2018-05-15,,,Hola,Maize,Retail,KG,50.0,0.5
+2018-06-15,,,Hola,Maize,Retail,KG,57.0,0.56
+2018-07-15,,,Hola,Maize,Retail,KG,55.0,0.55
+2018-08-15,,,Hola,Maize,Retail,KG,48.0,0.48
+2018-09-15,,,Hola,Maize,Retail,KG,42.0,0.42
+2018-10-15,,,Hola,Maize,Retail,KG,55.3,0.55
+2018-11-15,,,Hola,Maize,Retail,KG,39.2,0.38
+2018-12-15,,,Hola,Maize,Retail,KG,42.0,0.41
+2019-01-15,,,Hola,Maize,Retail,KG,63.0,0.62
+2019-02-15,,,Hola,Maize,Retail,KG,64.0,0.64
+2019-03-15,,,Hola,Maize,Retail,KG,54.0,0.54
+2019-04-15,,,Hola,Maize,Retail,KG,51.0,0.51
+2019-05-15,,,Hola,Maize,Retail,KG,50.0,0.5
+2019-06-15,,,Hola,Maize,Retail,KG,58.0,0.57
+2019-07-15,,,Hola,Maize,Retail,KG,59.3,0.58
+2019-08-15,,,Hola,Maize,Retail,KG,56.8,0.55
+2019-09-15,,,Hola,Maize,Retail,KG,52.2,0.5
+2019-10-15,,,Hola,Maize,Retail,KG,40.0,0.39
+2019-11-15,,,Hola,Maize,Retail,KG,58.0,0.57
+2019-12-15,,,Hola,Maize,Retail,KG,66.0,0.65
+2015-01-15,Rift Valley,Kajiado,Kajiado,Maize,Retail,KG,41.1,0.45
+2015-02-15,Rift Valley,Kajiado,Kajiado,Maize,Retail,KG,40.2,0.44
+2015-03-15,Rift Valley,Kajiado,Kajiado,Maize,Retail,KG,41.5,0.45
+2015-04-15,Rift Valley,Kajiado,Kajiado,Maize,Retail,KG,41.0,0.44
+2015-05-15,Rift Valley,Kajiado,Kajiado,Maize,Retail,KG,44.0,0.46
+2015-06-15,Rift Valley,Kajiado,Kajiado,Maize,Retail,KG,50.0,0.51
+2015-07-15,Rift Valley,Kajiado,Kajiado,Maize,Retail,KG,50.0,0.49
+2015-08-15,Rift Valley,Kajiado,Kajiado,Maize,Retail,KG,46.0,0.45
+2015-09-15,Rift Valley,Kajiado,Kajiado,Maize,Retail,KG,48.0,0.45
+2015-10-15,Rift Valley,Kajiado,Kajiado,Maize,Retail,KG,50.0,0.48
+2015-11-15,Rift Valley,Kajiado,Kajiado,Maize,Retail,KG,51.25,0.5
+2015-12-15,Rift Valley,Kajiado,Kajiado,Maize,Retail,KG,48.33,0.47
+2016-01-15,Rift Valley,Kajiado,Kajiado,Maize,Retail,KG,48.0,0.47
+2016-02-15,Rift Valley,Kajiado,Kajiado,Maize,Retail,KG,47.5,0.47
+2016-03-15,Rift Valley,Kajiado,Kajiado,Maize,Retail,KG,48.33,0.48
+2016-05-15,Rift Valley,Kajiado,Kajiado,Maize,Retail,KG,47.0,0.47
+2016-06-15,Rift Valley,Kajiado,Kajiado,Maize,Retail,KG,45.0,0.44
+2016-07-15,Rift Valley,Kajiado,Kajiado,Maize,Retail,KG,44.0,0.43
+2016-08-15,Rift Valley,Kajiado,Kajiado,Maize,Retail,KG,44.0,0.43
+2016-09-15,Rift Valley,Kajiado,Kajiado,Maize,Retail,KG,43.0,0.43
+2016-10-15,Rift Valley,Kajiado,Kajiado,Maize,Retail,KG,46.0,0.45
+2016-11-15,Rift Valley,Kajiado,Kajiado,Maize,Retail,KG,48.0,0.47
+2016-12-15,Rift Valley,Kajiado,Kajiado,Maize,Retail,KG,48.0,0.47
+2017-01-15,Rift Valley,Kajiado,Kajiado,Maize,Retail,KG,48.0,0.46
+2017-02-15,Rift Valley,Kajiado,Kajiado,Maize,Retail,KG,52.0,0.5
+2017-03-15,Rift Valley,Kajiado,Kajiado,Maize,Retail,KG,54.4,0.53
+2017-04-15,Rift Valley,Kajiado,Kajiado,Maize,Retail,KG,65.0,0.63
+2017-05-15,Rift Valley,Kajiado,Kajiado,Maize,Retail,KG,65.0,0.63
+2017-06-15,Rift Valley,Kajiado,Kajiado,Maize,Retail,KG,65.0,0.63
+2017-07-15,Rift Valley,Kajiado,Kajiado,Maize,Retail,KG,65.0,0.63
+2017-08-15,Rift Valley,Kajiado,Kajiado,Maize,Retail,KG,68.0,0.66
+2017-09-15,Rift Valley,Kajiado,Kajiado,Maize,Retail,KG,70.0,0.68
+2017-10-15,Rift Valley,Kajiado,Kajiado,Maize,Retail,KG,73.0,0.71
+2017-11-15,Rift Valley,Kajiado,Kajiado,Maize,Retail,KG,75.0,0.72
+2017-12-15,Rift Valley,Kajiado,Kajiado,Maize,Retail,KG,60.0,0.58
+2018-01-15,Rift Valley,Kajiado,Kajiado,Maize,Retail,KG,60.0,0.58
+2018-02-15,Rift Valley,Kajiado,Kajiado,Maize,Retail,KG,60.0,0.59
+2018-03-15,Rift Valley,Kajiado,Kajiado,Maize,Retail,KG,55.0,0.54
+2018-04-15,Rift Valley,Kajiado,Kajiado,Maize,Retail,KG,50.0,0.5
+2018-05-15,Rift Valley,Kajiado,Kajiado,Maize,Retail,KG,45.0,0.45
+2018-06-15,Rift Valley,Kajiado,Kajiado,Maize,Retail,KG,45.0,0.45
+2018-07-15,Rift Valley,Kajiado,Kajiado,Maize,Retail,KG,43.0,0.43
+2018-08-15,Rift Valley,Kajiado,Kajiado,Maize,Retail,KG,40.0,0.4
+2018-09-15,Rift Valley,Kajiado,Kajiado,Maize,Retail,KG,40.0,0.4
+2018-10-15,Rift Valley,Kajiado,Kajiado,Maize,Retail,KG,45.0,0.45
+2018-11-15,Rift Valley,Kajiado,Kajiado,Maize,Retail,KG,45.0,0.44
+2018-12-15,Rift Valley,Kajiado,Kajiado,Maize,Retail,KG,48.0,0.47
+2019-01-15,Rift Valley,Kajiado,Kajiado,Maize,Retail,KG,43.0,0.42
+2019-02-15,Rift Valley,Kajiado,Kajiado,Maize,Retail,KG,45.0,0.45
+2019-03-15,Rift Valley,Kajiado,Kajiado,Maize,Retail,KG,49.0,0.49
+2019-04-15,Rift Valley,Kajiado,Kajiado,Maize,Retail,KG,52.0,0.52
+2019-05-15,Rift Valley,Kajiado,Kajiado,Maize,Retail,KG,54.0,0.53
+2019-06-15,Rift Valley,Kajiado,Kajiado,Maize,Retail,KG,52.0,0.51
+2019-07-15,Rift Valley,Kajiado,Kajiado,Maize,Retail,KG,54.0,0.52
+2019-08-15,Rift Valley,Kajiado,Kajiado,Maize,Retail,KG,60.8,0.59
+2019-09-15,Rift Valley,Kajiado,Kajiado,Maize,Retail,KG,55.4,0.53
+2019-10-15,Rift Valley,Kajiado,Kajiado,Maize,Retail,KG,49.0,0.47
+2019-11-15,Rift Valley,Kajiado,Kajiado,Maize,Retail,KG,45.0,0.44
+2019-12-15,Rift Valley,Kajiado,Kajiado,Maize,Retail,KG,46.0,0.45
+2015-01-15,Coast,Kilifi,Kilifi,Maize,Retail,KG,33.9,0.37
+2015-02-15,Coast,Kilifi,Kilifi,Maize,Retail,KG,37.5,0.41
+2015-03-15,Coast,Kilifi,Kilifi,Maize,Retail,KG,37.7,0.41
+2015-04-15,Coast,Kilifi,Kilifi,Maize,Retail,KG,37.0,0.4
+2015-05-15,Coast,Kilifi,Kilifi,Maize,Retail,KG,36.0,0.38
+2015-06-15,Coast,Kilifi,Kilifi,Maize,Retail,KG,36.0,0.37
+2015-07-15,Coast,Kilifi,Kilifi,Maize,Retail,KG,34.0,0.33
+2015-08-15,Coast,Kilifi,Kilifi,Maize,Retail,KG,35.0,0.34
+2015-09-15,Coast,Kilifi,Kilifi,Maize,Retail,KG,35.0,0.33
+2015-10-15,Coast,Kilifi,Kilifi,Maize,Retail,KG,38.0,0.37
+2015-11-15,Coast,Kilifi,Kilifi,Maize,Retail,KG,37.0,0.36
+2015-12-15,Coast,Kilifi,Kilifi,Maize,Retail,KG,37.0,0.36
+2016-01-15,Coast,Kilifi,Kilifi,Maize,Retail,KG,38.0,0.37
+2016-02-15,Coast,Kilifi,Kilifi,Maize,Retail,KG,39.0,0.38
+2016-03-15,Coast,Kilifi,Kilifi,Maize,Retail,KG,39.0,0.38
+2016-05-15,Coast,Kilifi,Kilifi,Maize,Retail,KG,38.0,0.38
+2016-06-15,Coast,Kilifi,Kilifi,Maize,Retail,KG,44.0,0.43
+2016-07-15,Coast,Kilifi,Kilifi,Maize,Retail,KG,40.0,0.4
+2016-08-15,Coast,Kilifi,Kilifi,Maize,Retail,KG,39.0,0.38
+2016-09-15,Coast,Kilifi,Kilifi,Maize,Retail,KG,42.0,0.42
+2016-10-15,Coast,Kilifi,Kilifi,Maize,Retail,KG,42.0,0.41
+2016-11-15,Coast,Kilifi,Kilifi,Maize,Retail,KG,42.0,0.41
+2016-12-15,Coast,Kilifi,Kilifi,Maize,Retail,KG,43.0,0.42
+2017-01-15,Coast,Kilifi,Kilifi,Maize,Retail,KG,40.0,0.39
+2017-02-15,Coast,Kilifi,Kilifi,Maize,Retail,KG,48.0,0.46
+2017-03-15,Coast,Kilifi,Kilifi,Maize,Retail,KG,58.0,0.56
+2017-04-15,Coast,Kilifi,Kilifi,Maize,Retail,KG,60.0,0.58
+2017-05-15,Coast,Kilifi,Kilifi,Maize,Retail,KG,87.9,0.85
+2017-06-15,Coast,Kilifi,Kilifi,Maize,Retail,KG,57.9,0.56
+2017-07-15,Coast,Kilifi,Kilifi,Maize,Retail,KG,60.6,0.58
+2017-08-15,Coast,Kilifi,Kilifi,Maize,Retail,KG,47.8,0.46
+2017-09-15,Coast,Kilifi,Kilifi,Maize,Retail,KG,46.0,0.45
+2017-10-15,Coast,Kilifi,Kilifi,Maize,Retail,KG,39.2,0.38
+2017-11-15,Coast,Kilifi,Kilifi,Maize,Retail,KG,62.6,0.6
+2017-12-15,Coast,Kilifi,Kilifi,Maize,Retail,KG,46.3,0.45
+2018-01-15,Coast,Kilifi,Kilifi,Maize,Retail,KG,47.8,0.46
+2018-02-15,Coast,Kilifi,Kilifi,Maize,Retail,KG,48.2,0.48
+2018-03-15,Coast,Kilifi,Kilifi,Maize,Retail,KG,47.5,0.47
+2018-04-15,Coast,Kilifi,Kilifi,Maize,Retail,KG,45.3,0.45
+2018-05-15,Coast,Kilifi,Kilifi,Maize,Retail,KG,43.7,0.44
+2018-06-15,Coast,Kilifi,Kilifi,Maize,Retail,KG,42.5,0.42
+2018-07-15,Coast,Kilifi,Kilifi,Maize,Retail,KG,39.6,0.39
+2018-08-15,Coast,Kilifi,Kilifi,Maize,Retail,KG,39.9,0.4
+2018-09-15,Coast,Kilifi,Kilifi,Maize,Retail,KG,41.6,0.41
+2018-10-15,Coast,Kilifi,Kilifi,Maize,Retail,KG,37.8,0.38
+2018-11-15,Coast,Kilifi,Kilifi,Maize,Retail,KG,38.9,0.38
+2018-12-15,Coast,Kilifi,Kilifi,Maize,Retail,KG,39.5,0.39
+2019-01-15,Coast,Kilifi,Kilifi,Maize,Retail,KG,41.1,0.4
+2019-02-15,Coast,Kilifi,Kilifi,Maize,Retail,KG,41.1,0.41
+2019-03-15,Coast,Kilifi,Kilifi,Maize,Retail,KG,37.3,0.37
+2019-04-15,Coast,Kilifi,Kilifi,Maize,Retail,KG,45.1,0.45
+2019-05-15,Coast,Kilifi,Kilifi,Maize,Retail,KG,49.1,0.49
+2019-06-15,Coast,Kilifi,Kilifi,Maize,Retail,KG,45.0,0.44
+2019-07-15,Coast,Kilifi,Kilifi,Maize,Retail,KG,47.9,0.47
+2019-08-15,Coast,Kilifi,Kilifi,Maize,Retail,KG,47.2,0.46
+2019-09-15,Coast,Kilifi,Kilifi,Maize,Retail,KG,45.5,0.44
+2019-10-15,Coast,Kilifi,Kilifi,Maize,Retail,KG,47.9,0.46
+2019-11-15,Coast,Kilifi,Kilifi,Maize,Retail,KG,45.5,0.45
+2019-12-15,Coast,Kilifi,Kilifi,Maize,Retail,KG,47.3,0.47
+2006-01-15,Eastern,Kitui,Kitui,Maize,Retail,KG,17.0,0.24
+2006-02-15,Eastern,Kitui,Kitui,Maize,Retail,KG,18.0,0.25
+2006-03-15,Eastern,Kitui,Kitui,Maize,Retail,KG,18.0,0.25
+2006-04-15,Eastern,Kitui,Kitui,Maize,Retail,KG,19.0,0.27
+2006-05-15,Eastern,Kitui,Kitui,Maize,Retail,KG,22.0,0.31
+2006-06-15,Eastern,Kitui,Kitui,Maize,Retail,KG,22.0,0.3
+2006-07-15,Eastern,Kitui,Kitui,Maize,Retail,KG,22.0,0.3
+2006-08-15,Eastern,Kitui,Kitui,Maize,Retail,KG,21.0,0.29
+2006-09-15,Eastern,Kitui,Kitui,Maize,Retail,KG,19.0,0.26
+2006-10-15,Eastern,Kitui,Kitui,Maize,Retail,KG,19.0,0.26
+2006-11-15,Eastern,Kitui,Kitui,Maize,Retail,KG,19.0,0.27
+2006-12-15,Eastern,Kitui,Kitui,Maize,Retail,KG,20.0,0.29
+2007-01-15,Eastern,Kitui,Kitui,Maize,Retail,KG,18.0,0.26
+2007-02-15,Eastern,Kitui,Kitui,Maize,Retail,KG,17.0,0.25
+2007-03-15,Eastern,Kitui,Kitui,Maize,Retail,KG,8.0,0.12
+2007-04-15,Eastern,Kitui,Kitui,Maize,Retail,KG,8.0,0.12
+2007-05-15,Eastern,Kitui,Kitui,Maize,Retail,KG,8.0,0.12
+2007-06-15,Eastern,Kitui,Kitui,Maize,Retail,KG,9.0,0.14
+2007-07-15,Eastern,Kitui,Kitui,Maize,Retail,KG,9.0,0.13
+2007-08-15,Eastern,Kitui,Kitui,Maize,Retail,KG,9.0,0.13
+2007-09-15,Eastern,Kitui,Kitui,Maize,Retail,KG,9.0,0.13
+2007-10-15,Eastern,Kitui,Kitui,Maize,Retail,KG,9.0,0.14
+2007-11-15,Eastern,Kitui,Kitui,Maize,Retail,KG,9.0,0.14
+2007-12-15,Eastern,Kitui,Kitui,Maize,Retail,KG,14.0,0.22
+2008-01-15,Eastern,Kitui,Kitui,Maize,Retail,KG,16.0,0.24
+2008-02-15,Eastern,Kitui,Kitui,Maize,Retail,KG,15.0,0.21
+2008-03-15,Eastern,Kitui,Kitui,Maize,Retail,KG,15.0,0.23
+2008-04-15,Eastern,Kitui,Kitui,Maize,Retail,KG,13.0,0.21
+2008-05-15,Eastern,Kitui,Kitui,Maize,Retail,KG,20.0,0.32
+2008-06-15,Eastern,Kitui,Kitui,Maize,Retail,KG,22.0,0.34
+2008-07-15,Eastern,Kitui,Kitui,Maize,Retail,KG,27.0,0.4
+2008-08-15,Eastern,Kitui,Kitui,Maize,Retail,KG,30.0,0.45
+2008-09-15,Eastern,Kitui,Kitui,Maize,Retail,KG,30.0,0.42
+2008-10-15,Eastern,Kitui,Kitui,Maize,Retail,KG,34.0,0.45
+2008-11-15,Eastern,Kitui,Kitui,Maize,Retail,KG,35.0,0.45
+2008-12-15,Eastern,Kitui,Kitui,Maize,Retail,KG,30.0,0.39
+2009-01-15,Eastern,Kitui,Kitui,Maize,Retail,KG,30.0,0.38
+2009-02-15,Eastern,Kitui,Kitui,Maize,Retail,KG,35.0,0.44
+2009-03-15,Eastern,Kitui,Kitui,Maize,Retail,KG,35.0,0.44
+2009-04-15,Eastern,Kitui,Kitui,Maize,Retail,KG,35.0,0.44
+2009-05-15,Eastern,Kitui,Kitui,Maize,Retail,KG,36.0,0.46
+2009-06-15,Eastern,Kitui,Kitui,Maize,Retail,KG,36.0,0.46
+2009-07-15,Eastern,Kitui,Kitui,Maize,Retail,KG,33.0,0.43
+2009-08-15,Eastern,Kitui,Kitui,Maize,Retail,KG,30.0,0.39
+2009-09-15,Eastern,Kitui,Kitui,Maize,Retail,KG,30.0,0.4
+2009-10-15,Eastern,Kitui,Kitui,Maize,Retail,KG,30.0,0.4
+2009-11-15,Eastern,Kitui,Kitui,Maize,Retail,KG,30.0,0.4
+2009-12-15,Eastern,Kitui,Kitui,Maize,Retail,KG,30.0,0.4
+2010-01-15,Eastern,Kitui,Kitui,Maize,Retail,KG,30.0,0.4
+2010-02-15,Eastern,Kitui,Kitui,Maize,Retail,KG,20.0,0.26
+2010-03-15,Eastern,Kitui,Kitui,Maize,Retail,KG,16.0,0.21
+2010-04-15,Eastern,Kitui,Kitui,Maize,Retail,KG,13.0,0.17
+2010-05-15,Eastern,Kitui,Kitui,Maize,Retail,KG,13.0,0.17
+2010-06-15,Eastern,Kitui,Kitui,Maize,Retail,KG,6.0,0.074
+2010-07-15,Eastern,Kitui,Kitui,Maize,Retail,KG,15.0,0.18
+2010-08-15,Eastern,Kitui,Kitui,Maize,Retail,KG,13.0,0.16
+2010-09-15,Eastern,Kitui,Kitui,Maize,Retail,KG,13.0,0.16
+2010-10-15,Eastern,Kitui,Kitui,Maize,Retail,KG,14.0,0.17
+2010-11-15,Eastern,Kitui,Kitui,Maize,Retail,KG,18.0,0.22
+2010-12-15,Eastern,Kitui,Kitui,Maize,Retail,KG,16.0,0.2
+2011-01-15,Eastern,Kitui,Kitui,Maize,Retail,KG,17.0,0.21
+2011-02-15,Eastern,Kitui,Kitui,Maize,Retail,KG,17.0,0.21
+2011-03-15,Eastern,Kitui,Kitui,Maize,Retail,KG,22.0,0.26
+2011-04-15,Eastern,Kitui,Kitui,Maize,Retail,KG,30.0,0.36
+2011-05-15,Eastern,Kitui,Kitui,Maize,Retail,KG,45.0,0.52
+2011-06-15,Eastern,Kitui,Kitui,Maize,Retail,KG,46.0,0.52
+2011-07-15,Eastern,Kitui,Kitui,Maize,Retail,KG,45.0,0.5
+2011-08-15,Eastern,Kitui,Kitui,Maize,Retail,KG,39.0,0.42
+2011-09-15,Eastern,Kitui,Kitui,Maize,Retail,KG,41.0,0.43
+2011-10-15,Eastern,Kitui,Kitui,Maize,Retail,KG,40.62,0.41
+2011-11-15,Eastern,Kitui,Kitui,Maize,Retail,KG,41.63,0.44
+2011-12-15,Eastern,Kitui,Kitui,Maize,Retail,KG,42.55,0.5
+2012-01-15,Eastern,Kitui,Kitui,Maize,Retail,KG,42.0,0.48
+2012-02-15,Eastern,Kitui,Kitui,Maize,Retail,KG,38.0,0.46
+2012-03-15,Eastern,Kitui,Kitui,Maize,Retail,KG,37.0,0.45
+2012-04-15,Eastern,Kitui,Kitui,Maize,Retail,KG,37.0,0.45
+2012-05-15,Eastern,Kitui,Kitui,Maize,Retail,KG,41.0,0.49
+2012-06-15,Eastern,Kitui,Kitui,Maize,Retail,KG,41.0,0.48
+2012-07-15,Eastern,Kitui,Kitui,Maize,Retail,KG,41.0,0.49
+2012-08-15,Eastern,Kitui,Kitui,Maize,Retail,KG,42.0,0.5
+2012-09-15,Eastern,Kitui,Kitui,Maize,Retail,KG,40.0,0.47
+2012-10-15,Eastern,Kitui,Kitui,Maize,Retail,KG,40.0,0.47
+2012-11-15,Eastern,Kitui,Kitui,Maize,Retail,KG,39.0,0.46
+2012-12-15,Eastern,Kitui,Kitui,Maize,Retail,KG,37.0,0.43
+2013-01-15,Eastern,Kitui,Kitui,Maize,Retail,KG,37.0,0.43
+2013-02-15,Eastern,Kitui,Kitui,Maize,Retail,KG,33.0,0.38
+2013-03-15,Eastern,Kitui,Kitui,Maize,Retail,KG,30.0,0.35
+2013-04-15,Eastern,Kitui,Kitui,Maize,Retail,KG,34.0,0.41
+2013-05-15,Eastern,Kitui,Kitui,Maize,Retail,KG,31.0,0.37
+2013-06-15,Eastern,Kitui,Kitui,Maize,Retail,KG,33.0,0.39
+2013-07-15,Eastern,Kitui,Kitui,Maize,Retail,KG,32.0,0.37
+2013-08-15,Eastern,Kitui,Kitui,Maize,Retail,KG,33.0,0.38
+2013-09-15,Eastern,Kitui,Kitui,Maize,Retail,KG,34.0,0.39
+2013-10-15,Eastern,Kitui,Kitui,Maize,Retail,KG,37.0,0.44
+2013-11-15,Eastern,Kitui,Kitui,Maize,Retail,KG,38.0,0.44
+2013-12-15,Eastern,Kitui,Kitui,Maize,Retail,KG,38.0,0.44
+2014-01-15,Eastern,Kitui,Kitui,Maize,Retail,KG,37.0,0.43
+2014-02-15,Eastern,Kitui,Kitui,Maize,Retail,KG,35.0,0.41
+2014-03-15,Eastern,Kitui,Kitui,Maize,Retail,KG,36.0,0.42
+2014-04-15,Eastern,Kitui,Kitui,Maize,Retail,KG,36.0,0.41
+2014-05-15,Eastern,Kitui,Kitui,Maize,Retail,KG,37.0,0.42
+2014-06-15,Eastern,Kitui,Kitui,Maize,Retail,KG,38.0,0.43
+2014-07-15,Eastern,Kitui,Kitui,Maize,Retail,KG,39.0,0.44
+2014-08-15,Eastern,Kitui,Kitui,Maize,Retail,KG,36.0,0.41
+2014-09-15,Eastern,Kitui,Kitui,Maize,Retail,KG,34.0,0.38
+2014-10-15,Eastern,Kitui,Kitui,Maize,Retail,KG,32.0,0.36
+2014-11-15,Eastern,Kitui,Kitui,Maize,Retail,KG,32.0,0.36
+2014-12-15,Eastern,Kitui,Kitui,Maize,Retail,KG,30.0,0.33
+2015-01-15,Eastern,Kitui,Kitui,Maize,Retail,KG,29.0,0.32
+2015-02-15,Eastern,Kitui,Kitui,Maize,Retail,KG,29.0,0.32
+2015-03-15,Eastern,Kitui,Kitui,Maize,Retail,KG,30.0,0.33
+2015-04-15,Eastern,Kitui,Kitui,Maize,Retail,KG,33.0,0.35
+2015-05-15,Eastern,Kitui,Kitui,Maize,Retail,KG,37.0,0.39
+2015-06-15,Eastern,Kitui,Kitui,Maize,Retail,KG,35.0,0.36
+2015-07-15,Eastern,Kitui,Kitui,Maize,Retail,KG,37.0,0.36
+2015-08-15,Eastern,Kitui,Kitui,Maize,Retail,KG,36.0,0.35
+2015-09-15,Eastern,Kitui,Kitui,Maize,Retail,KG,33.0,0.31
+2015-10-15,Eastern,Kitui,Kitui,Maize,Retail,KG,34.0,0.33
+2015-11-15,Eastern,Kitui,Kitui,Maize,Retail,KG,33.0,0.32
+2015-12-15,Eastern,Kitui,Kitui,Maize,Retail,KG,33.0,0.32
+2016-01-15,Eastern,Kitui,Kitui,Maize,Retail,KG,31.0,0.3
+2016-02-15,Eastern,Kitui,Kitui,Maize,Retail,KG,31.0,0.3
+2016-03-15,Eastern,Kitui,Kitui,Maize,Retail,KG,29.0,0.29
+2016-04-15,Eastern,Kitui,Kitui,Maize,Retail,KG,29.0,0.29
+2016-05-15,Eastern,Kitui,Kitui,Maize,Retail,KG,28.0,0.28
+2016-06-15,Eastern,Kitui,Kitui,Maize,Retail,KG,28.0,0.28
+2016-07-15,Eastern,Kitui,Kitui,Maize,Retail,KG,31.0,0.31
+2016-08-15,Eastern,Kitui,Kitui,Maize,Retail,KG,33.0,0.33
+2016-09-15,Eastern,Kitui,Kitui,Maize,Retail,KG,34.0,0.34
+2016-10-15,Eastern,Kitui,Kitui,Maize,Retail,KG,34.0,0.34
+2016-11-15,Eastern,Kitui,Kitui,Maize,Retail,KG,35.0,0.34
+2016-12-15,Eastern,Kitui,Kitui,Maize,Retail,KG,35.0,0.34
+2017-01-15,Eastern,Kitui,Kitui,Maize,Retail,KG,38.0,0.37
+2017-02-15,Eastern,Kitui,Kitui,Maize,Retail,KG,48.0,0.46
+2017-03-15,Eastern,Kitui,Kitui,Maize,Retail,KG,46.2,0.45
+2017-04-15,Eastern,Kitui,Kitui,Maize,Retail,KG,54.0,0.52
+2017-05-15,Eastern,Kitui,Kitui,Maize,Retail,KG,58.0,0.56
+2017-06-15,Eastern,Kitui,Kitui,Maize,Retail,KG,58.0,0.56
+2017-07-15,Eastern,Kitui,Kitui,Maize,Retail,KG,58.0,0.56
+2017-08-15,Eastern,Kitui,Kitui,Maize,Retail,KG,45.0,0.43
+2017-09-15,Eastern,Kitui,Kitui,Maize,Retail,KG,41.0,0.4
+2017-10-15,Eastern,Kitui,Kitui,Maize,Retail,KG,37.0,0.36
+2017-11-15,Eastern,Kitui,Kitui,Maize,Retail,KG,37.0,0.36
+2017-12-15,Eastern,Kitui,Kitui,Maize,Retail,KG,35.0,0.34
+2018-01-15,Eastern,Kitui,Kitui,Maize,Retail,KG,36.9,0.36
+2018-02-15,Eastern,Kitui,Kitui,Maize,Retail,KG,36.0,0.36
+2018-03-15,Eastern,Kitui,Kitui,Maize,Retail,KG,34.0,0.34
+2018-04-15,Eastern,Kitui,Kitui,Maize,Retail,KG,30.0,0.3
+2018-05-15,Eastern,Kitui,Kitui,Maize,Retail,KG,30.0,0.3
+2018-06-15,Eastern,Kitui,Kitui,Maize,Retail,KG,31.0,0.31
+2018-07-15,Eastern,Kitui,Kitui,Maize,Retail,KG,29.6,0.29
+2018-08-15,Eastern,Kitui,Kitui,Maize,Retail,KG,30.0,0.3
+2018-09-15,Eastern,Kitui,Kitui,Maize,Retail,KG,27.0,0.27
+2018-10-15,Eastern,Kitui,Kitui,Maize,Retail,KG,33.56,0.33
+2018-11-15,Eastern,Kitui,Kitui,Maize,Retail,KG,26.9,0.26
+2018-12-15,Eastern,Kitui,Kitui,Maize,Retail,KG,27.9,0.27
+2019-01-15,Eastern,Kitui,Kitui,Maize,Retail,KG,29.0,0.29
+2019-02-15,Eastern,Kitui,Kitui,Maize,Retail,KG,27.0,0.27
+2019-03-15,Eastern,Kitui,Kitui,Maize,Retail,KG,29.0,0.29
+2019-04-15,Eastern,Kitui,Kitui,Maize,Retail,KG,34.0,0.34
+2019-05-15,Eastern,Kitui,Kitui,Maize,Retail,KG,42.0,0.42
+2019-06-15,Eastern,Kitui,Kitui,Maize,Retail,KG,41.0,0.4
+2019-07-15,Eastern,Kitui,Kitui,Maize,Retail,KG,43.5,0.42
+2019-08-15,Eastern,Kitui,Kitui,Maize,Retail,KG,44.8,0.43
+2019-09-15,Eastern,Kitui,Kitui,Maize,Retail,KG,43.3,0.42
+2019-10-15,Eastern,Kitui,Kitui,Maize,Retail,KG,44.6,0.43
+2019-11-15,Eastern,Kitui,Kitui,Maize,Retail,KG,43.6,0.43
+2019-12-15,Eastern,Kitui,Kitui,Maize,Retail,KG,44.6,0.44
+2006-01-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,26.0,0.36
+2006-02-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,28.0,0.39
+2006-03-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,27.0,0.37
+2006-04-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,30.0,0.42
+2006-05-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,26.0,0.36
+2006-06-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,27.0,0.37
+2006-07-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,26.0,0.35
+2006-08-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,27.0,0.37
+2006-09-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,29.0,0.4
+2006-10-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,30.0,0.42
+2006-11-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,28.0,0.39
+2006-12-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,28.0,0.4
+2007-01-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,30.0,0.43
+2007-02-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,30.0,0.44
+2007-03-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,30.0,0.43
+2007-04-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,31.0,0.45
+2007-05-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,29.0,0.43
+2007-06-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,30.0,0.45
+2007-07-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,30.0,0.45
+2007-08-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,28.0,0.42
+2007-09-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,28.0,0.42
+2007-10-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,27.0,0.41
+2007-11-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,27.0,0.41
+2007-12-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,30.0,0.48
+2008-01-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,37.0,0.55
+2008-02-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,38.0,0.54
+2008-03-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,35.0,0.54
+2008-04-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,40.0,0.65
+2008-05-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,55.0,0.88
+2008-06-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,50.0,0.78
+2008-07-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,47.0,0.7
+2008-08-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,43.0,0.64
+2008-09-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,45.0,0.63
+2008-10-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,44.0,0.58
+2008-11-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,42.0,0.54
+2008-12-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,42.0,0.54
+2009-01-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,49.0,0.61
+2009-02-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,43.0,0.54
+2009-03-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,40.0,0.5
+2009-04-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,41.0,0.51
+2009-05-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,46.0,0.59
+2009-06-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,47.7,0.61
+2009-07-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,52.0,0.67
+2009-08-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,48.0,0.63
+2009-09-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,51.0,0.67
+2009-10-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,51.0,0.68
+2009-11-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,46.7,0.63
+2009-12-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,45.8,0.61
+2010-01-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,49.6,0.66
+2010-02-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,45.7,0.59
+2010-03-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,44.5,0.58
+2010-04-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,44.93,0.59
+2010-05-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,46.0,0.59
+2010-06-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,44.0,0.55
+2010-07-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,43.61,0.54
+2010-08-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,44.0,0.55
+2010-09-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,46.29,0.57
+2010-10-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,44.0,0.55
+2010-11-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,44.7,0.56
+2010-12-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,42.29,0.53
+2011-01-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,44.0,0.55
+2011-02-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,42.6,0.52
+2011-03-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,46.0,0.54
+2011-04-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,54.9,0.66
+2011-05-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,60.0,0.7
+2011-06-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,64.0,0.73
+2011-07-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,74.8,0.84
+2011-08-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,72.73,0.79
+2011-09-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,65.55,0.69
+2011-10-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,64.3,0.64
+2011-11-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,64.23,0.68
+2011-12-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,64.58,0.76
+2012-01-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,61.35,0.71
+2012-02-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,56.0,0.68
+2012-03-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,54.98,0.67
+2012-04-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,60.13,0.73
+2012-05-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,58.75,0.7
+2012-06-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,58.65,0.69
+2012-07-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,68.2,0.81
+2012-08-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,62.55,0.75
+2012-09-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,66.0,0.78
+2012-10-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,76.62,0.9
+2012-11-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,78.02,0.91
+2012-12-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,81.83,0.95
+2013-01-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,75.8,0.87
+2013-02-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,78.78,0.9
+2013-03-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,82.7,0.97
+2013-04-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,87.8,1.05
+2013-05-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,84.75,1.01
+2013-06-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,86.35,1.01
+2013-07-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,76.5,0.88
+2013-08-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,76.04,0.87
+2013-09-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,71.88,0.82
+2013-10-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,74.17,0.87
+2013-11-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,74.58,0.86
+2013-12-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,71.93,0.83
+2014-01-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,84.0,0.98
+2014-02-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,78.05,0.9
+2014-04-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,70.1,0.81
+2014-05-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,75.02,0.86
+2014-06-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,81.83,0.93
+2014-07-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,77.1,0.88
+2014-08-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,80.78,0.92
+2014-09-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,71.55,0.81
+2014-10-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,75.0,0.84
+2014-11-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,72.0,0.8
+2014-12-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,79.0,0.87
+2015-01-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,82.0,0.9
+2015-02-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,74.0,0.81
+2015-03-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,70.0,0.76
+2015-04-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,78.0,0.84
+2015-05-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,69.0,0.72
+2015-06-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,73.0,0.75
+2015-07-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,75.0,0.74
+2015-08-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,82.0,0.8
+2015-09-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,76.0,0.72
+2015-10-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,79.0,0.77
+2015-11-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,78.0,0.76
+2015-12-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,81.0,0.79
+2016-01-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,81.0,0.79
+2016-02-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,75.0,0.74
+2016-03-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,76.0,0.75
+2016-05-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,84.0,0.83
+2016-06-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,75.0,0.74
+2016-07-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,75.0,0.74
+2016-08-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,69.0,0.68
+2016-09-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,71.0,0.7
+2016-10-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,73.0,0.72
+2016-11-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,74.0,0.73
+2016-12-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,77.0,0.75
+2017-01-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,87.0,0.84
+2017-02-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,82.0,0.79
+2017-03-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,90.7,0.88
+2017-04-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,92.6,0.9
+2017-05-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,98.0,0.95
+2017-06-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,100.0,0.97
+2017-07-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,91.0,0.88
+2017-08-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,88.0,0.85
+2017-09-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,87.0,0.84
+2017-10-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,81.0,0.78
+2017-11-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,80.0,0.77
+2017-12-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,81.0,0.79
+2018-01-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,82.0,0.8
+2018-02-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,85.5,0.84
+2018-03-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,86.3,0.85
+2018-04-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,85.0,0.85
+2018-05-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,84.0,0.84
+2018-06-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,83.0,0.82
+2018-07-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,81.0,0.81
+2018-08-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,59.0,0.59
+2018-09-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,63.0,0.62
+2018-10-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,61.0,0.61
+2018-11-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,62.0,0.6
+2018-12-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,60.0,0.59
+2019-01-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,66.0,0.65
+2019-02-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,64.8,0.65
+2019-03-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,61.0,0.61
+2019-04-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,61.0,0.6
+2019-05-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,66.0,0.65
+2019-06-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,63.0,0.62
+2019-07-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,66.7,0.65
+2019-08-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,67.1,0.65
+2019-09-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,66.3,0.64
+2019-10-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,67.0,0.65
+2019-11-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,64.0,0.63
+2019-12-15,Rift Valley,Turkana,Lodwar,Maize,Retail,KG,65.0,0.64
+2006-01-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,30.0,0.42
+2006-02-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,29.0,0.4
+2006-03-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,27.0,0.37
+2006-04-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,28.0,0.39
+2006-05-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,25.0,0.35
+2006-06-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,22.0,0.3
+2006-07-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,23.0,0.31
+2006-08-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,23.0,0.32
+2006-09-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,22.0,0.3
+2006-10-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,23.0,0.32
+2006-11-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,31.0,0.44
+2006-12-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,28.0,0.4
+2007-01-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,20.0,0.29
+2007-02-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,23.0,0.33
+2007-03-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,22.0,0.32
+2007-04-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,26.0,0.38
+2007-05-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,33.0,0.49
+2007-06-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,29.0,0.44
+2007-07-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,25.0,0.37
+2007-08-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,30.0,0.45
+2007-09-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,29.0,0.43
+2007-10-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,31.0,0.47
+2007-11-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,26.0,0.39
+2007-12-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,31.0,0.49
+2008-01-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,31.0,0.46
+2008-02-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,29.0,0.41
+2008-03-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,33.0,0.51
+2008-04-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,31.0,0.5
+2008-05-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,34.0,0.54
+2008-06-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,31.0,0.48
+2008-07-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,32.0,0.48
+2008-08-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,34.0,0.5
+2008-09-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,34.0,0.48
+2008-10-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,35.0,0.46
+2008-11-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,36.0,0.46
+2008-12-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,37.0,0.48
+2009-01-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,37.0,0.46
+2009-02-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,35.0,0.44
+2009-03-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,37.0,0.46
+2009-04-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,39.0,0.49
+2009-05-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,40.0,0.51
+2009-06-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,43.0,0.55
+2009-07-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,44.0,0.57
+2009-08-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,44.0,0.58
+2009-09-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,40.0,0.53
+2009-10-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,41.0,0.54
+2009-11-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,39.0,0.52
+2009-12-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,36.0,0.48
+2010-01-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,36.0,0.48
+2010-02-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,39.0,0.51
+2010-03-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,34.0,0.44
+2010-04-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,33.0,0.43
+2010-05-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,36.0,0.46
+2010-06-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,39.0,0.48
+2010-07-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,41.0,0.5
+2010-08-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,44.0,0.55
+2010-09-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,45.0,0.56
+2010-10-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,45.0,0.56
+2010-11-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,47.0,0.58
+2010-12-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,49.0,0.61
+2011-01-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,50.0,0.62
+2011-02-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,51.0,0.63
+2011-03-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,52.0,0.61
+2011-04-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,54.0,0.65
+2011-05-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,57.0,0.66
+2011-06-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,59.0,0.67
+2011-07-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,63.0,0.7
+2011-08-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,63.0,0.68
+2011-09-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,65.0,0.69
+2011-10-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,67.0,0.67
+2011-11-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,65.0,0.69
+2011-12-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,60.0,0.71
+2012-01-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,76.0,0.87
+2012-02-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,76.0,0.92
+2012-03-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,78.0,0.95
+2012-04-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,78.24,0.94
+2012-05-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,78.67,0.94
+2012-06-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,79.0,0.93
+2012-07-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,80.0,0.95
+2012-08-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,80.0,0.95
+2012-09-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,80.0,0.95
+2012-10-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,79.0,0.93
+2012-11-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,79.0,0.92
+2012-12-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,80.0,0.93
+2013-01-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,78.0,0.9
+2013-02-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,78.0,0.89
+2013-03-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,79.0,0.92
+2013-04-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,80.0,0.96
+2013-05-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,80.0,0.96
+2013-06-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,78.0,0.91
+2013-07-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,83.0,0.96
+2013-08-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,76.0,0.87
+2013-09-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,67.0,0.77
+2013-10-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,69.0,0.81
+2013-11-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,67.0,0.78
+2013-12-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,64.0,0.74
+2014-01-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,60.0,0.7
+2014-02-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,57.0,0.66
+2014-03-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,57.0,0.66
+2014-04-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,56.0,0.65
+2014-05-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,56.0,0.64
+2014-06-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,57.0,0.65
+2014-07-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,59.0,0.67
+2014-08-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,61.0,0.69
+2014-09-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,63.0,0.71
+2014-10-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,66.0,0.74
+2014-11-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,64.0,0.71
+2014-12-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,60.0,0.66
+2015-01-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,66.0,0.72
+2015-02-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,66.0,0.72
+2015-03-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,68.0,0.74
+2015-04-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,68.0,0.73
+2015-05-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,65.0,0.68
+2015-06-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,65.0,0.67
+2015-07-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,67.0,0.66
+2015-08-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,68.0,0.66
+2015-09-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,65.0,0.62
+2015-10-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,65.0,0.63
+2015-11-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,66.0,0.65
+2015-12-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,65.0,0.64
+2016-01-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,60.0,0.59
+2016-02-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,61.0,0.6
+2016-03-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,62.0,0.61
+2016-05-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,65.0,0.65
+2016-06-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,66.0,0.65
+2016-07-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,66.0,0.65
+2016-08-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,64.0,0.63
+2016-09-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,46.6,0.46
+2016-10-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,63.0,0.62
+2016-11-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,65.0,0.64
+2016-12-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,66.0,0.65
+2017-01-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,66.0,0.64
+2017-02-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,64.0,0.62
+2017-03-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,68.6,0.67
+2017-04-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,65.0,0.63
+2017-05-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,64.0,0.62
+2017-06-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,66.0,0.64
+2017-07-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,66.0,0.64
+2017-08-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,67.0,0.65
+2017-09-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,70.0,0.68
+2017-10-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,70.0,0.68
+2017-11-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,65.0,0.63
+2017-12-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,67.0,0.65
+2018-01-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,67.5,0.66
+2018-02-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,67.0,0.66
+2018-03-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,65.0,0.64
+2018-04-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,63.0,0.63
+2018-05-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,66.0,0.66
+2018-06-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,64.0,0.63
+2018-07-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,63.0,0.63
+2018-08-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,64.0,0.64
+2018-09-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,67.0,0.66
+2018-10-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,67.0,0.67
+2018-11-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,65.0,0.63
+2018-12-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,68.0,0.66
+2019-01-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,68.0,0.67
+2019-02-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,70.0,0.7
+2019-03-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,75.0,0.75
+2019-04-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,74.0,0.73
+2019-05-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,75.0,0.74
+2019-06-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,75.0,0.74
+2019-07-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,76.9,0.75
+2019-08-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,80.0,0.77
+2019-09-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,81.8,0.79
+2019-10-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,80.0,0.77
+2019-11-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,85.0,0.83
+2019-12-15,North Eastern,Mandera,Mandera,Maize,Retail,KG,80.0,0.79
+2015-01-15,Rift Valley,Baringo,Marigat,Maize,Retail,KG,42.0,0.46
+2015-02-15,Rift Valley,Baringo,Marigat,Maize,Retail,KG,47.0,0.51
+2015-03-15,Rift Valley,Baringo,Marigat,Maize,Retail,KG,38.0,0.41
+2015-04-15,Rift Valley,Baringo,Marigat,Maize,Retail,KG,42.0,0.45
+2015-05-15,Rift Valley,Baringo,Marigat,Maize,Retail,KG,45.0,0.47
+2015-06-15,Rift Valley,Baringo,Marigat,Maize,Retail,KG,45.0,0.46
+2015-07-15,Rift Valley,Baringo,Marigat,Maize,Retail,KG,44.0,0.43
+2015-08-15,Rift Valley,Baringo,Marigat,Maize,Retail,KG,46.0,0.45
+2015-09-15,Rift Valley,Baringo,Marigat,Maize,Retail,KG,44.0,0.42
+2015-10-15,Rift Valley,Baringo,Marigat,Maize,Retail,KG,37.0,0.36
+2015-11-15,Rift Valley,Baringo,Marigat,Maize,Retail,KG,39.0,0.38
+2015-12-15,Rift Valley,Baringo,Marigat,Maize,Retail,KG,41.0,0.4
+2016-01-15,Rift Valley,Baringo,Marigat,Maize,Retail,KG,41.0,0.4
+2016-02-15,Rift Valley,Baringo,Marigat,Maize,Retail,KG,39.0,0.38
+2016-03-15,Rift Valley,Baringo,Marigat,Maize,Retail,KG,40.0,0.39
+2016-05-15,Rift Valley,Baringo,Marigat,Maize,Retail,KG,43.0,0.43
+2016-06-15,Rift Valley,Baringo,Marigat,Maize,Retail,KG,39.0,0.39
+2016-07-15,Rift Valley,Baringo,Marigat,Maize,Retail,KG,41.0,0.41
+2016-08-15,Rift Valley,Baringo,Marigat,Maize,Retail,KG,41.0,0.4
+2016-09-15,Rift Valley,Baringo,Marigat,Maize,Retail,KG,37.0,0.37
+2016-10-15,Rift Valley,Baringo,Marigat,Maize,Retail,KG,43.0,0.42
+2016-11-15,Rift Valley,Baringo,Marigat,Maize,Retail,KG,48.0,0.47
+2016-12-15,Rift Valley,Baringo,Marigat,Maize,Retail,KG,48.0,0.47
+2017-01-15,Rift Valley,Baringo,Marigat,Maize,Retail,KG,55.0,0.53
+2017-02-15,Rift Valley,Baringo,Marigat,Maize,Retail,KG,52.0,0.5
+2017-03-15,Rift Valley,Baringo,Marigat,Maize,Retail,KG,57.0,0.55
+2017-04-15,Rift Valley,Baringo,Marigat,Maize,Retail,KG,62.0,0.6
+2017-05-15,Rift Valley,Baringo,Marigat,Maize,Retail,KG,73.0,0.71
+2017-06-15,Rift Valley,Baringo,Marigat,Maize,Retail,KG,81.0,0.79
+2017-07-15,Rift Valley,Baringo,Marigat,Maize,Retail,KG,58.0,0.56
+2017-08-15,Rift Valley,Baringo,Marigat,Maize,Retail,KG,52.0,0.5
+2017-09-15,Rift Valley,Baringo,Marigat,Maize,Retail,KG,53.0,0.51
+2017-10-15,Rift Valley,Baringo,Marigat,Maize,Retail,KG,53.0,0.51
+2017-11-15,Rift Valley,Baringo,Marigat,Maize,Retail,KG,50.0,0.48
+2017-12-15,Rift Valley,Baringo,Marigat,Maize,Retail,KG,48.0,0.47
+2018-01-15,Rift Valley,Baringo,Marigat,Maize,Retail,KG,52.0,0.51
+2018-02-15,Rift Valley,Baringo,Marigat,Maize,Retail,KG,53.0,0.52
+2018-03-15,Rift Valley,Baringo,Marigat,Maize,Retail,KG,52.0,0.51
+2018-04-15,Rift Valley,Baringo,Marigat,Maize,Retail,KG,43.0,0.43
+2018-05-15,Rift Valley,Baringo,Marigat,Maize,Retail,KG,44.0,0.44
+2018-06-15,Rift Valley,Baringo,Marigat,Maize,Retail,KG,40.0,0.4
+2018-07-15,Rift Valley,Baringo,Marigat,Maize,Retail,KG,42.0,0.42
+2018-08-15,Rift Valley,Baringo,Marigat,Maize,Retail,KG,38.0,0.38
+2018-09-15,Rift Valley,Baringo,Marigat,Maize,Retail,KG,36.0,0.36
+2018-10-15,Rift Valley,Baringo,Marigat,Maize,Retail,KG,33.0,0.33
+2018-11-15,Rift Valley,Baringo,Marigat,Maize,Retail,KG,35.0,0.34
+2018-12-15,Rift Valley,Baringo,Marigat,Maize,Retail,KG,36.0,0.35
+2019-04-15,Rift Valley,Baringo,Marigat,Maize,Retail,KG,44.0,0.44
+2019-05-15,Rift Valley,Baringo,Marigat,Maize,Retail,KG,52.0,0.52
+2019-06-15,Rift Valley,Baringo,Marigat,Maize,Retail,KG,51.0,0.5
+2019-07-15,Rift Valley,Baringo,Marigat,Maize,Retail,KG,55.7,0.54
+2019-08-15,Rift Valley,Baringo,Marigat,Maize,Retail,KG,54.6,0.53
+2019-09-15,Rift Valley,Baringo,Marigat,Maize,Retail,KG,46.5,0.45
+2019-10-15,Rift Valley,Baringo,Marigat,Maize,Retail,KG,44.0,0.42
+2019-11-15,Rift Valley,Baringo,Marigat,Maize,Retail,KG,44.0,0.43
+2019-12-15,Rift Valley,Baringo,Marigat,Maize,Retail,KG,46.0,0.45
+2006-01-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,21.0,0.29
+2006-02-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,22.0,0.31
+2006-03-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,22.0,0.3
+2006-04-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,24.0,0.34
+2006-05-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,22.0,0.31
+2006-06-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,20.0,0.27
+2006-07-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,21.0,0.29
+2006-08-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,22.0,0.3
+2006-09-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,20.0,0.27
+2006-10-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,21.0,0.29
+2006-11-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,20.0,0.28
+2006-12-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,20.0,0.29
+2007-01-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,16.0,0.23
+2007-02-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,16.0,0.23
+2007-03-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,14.0,0.2
+2007-04-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,12.0,0.18
+2007-05-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,15.0,0.22
+2007-06-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,15.0,0.23
+2007-07-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,15.0,0.22
+2007-08-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,15.0,0.22
+2007-09-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,18.0,0.27
+2007-10-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,15.0,0.23
+2007-11-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,18.0,0.27
+2007-12-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,23.0,0.37
+2008-01-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,22.0,0.33
+2008-02-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,23.0,0.33
+2008-03-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,24.0,0.37
+2008-04-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,26.0,0.42
+2008-05-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,27.0,0.43
+2008-06-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,27.0,0.42
+2008-07-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,29.0,0.43
+2008-08-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,30.0,0.45
+2008-09-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,31.0,0.44
+2008-10-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,32.0,0.42
+2008-11-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,42.0,0.54
+2008-12-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,42.0,0.54
+2009-01-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,44.0,0.55
+2009-02-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,42.0,0.53
+2009-03-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,42.0,0.52
+2009-04-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,44.0,0.55
+2009-05-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,46.0,0.59
+2009-06-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,45.0,0.58
+2009-07-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,47.5,0.62
+2009-08-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,42.5,0.56
+2009-09-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,43.0,0.57
+2009-10-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,43.0,0.57
+2009-11-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,43.0,0.58
+2009-12-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,43.0,0.57
+2010-01-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,42.5,0.56
+2010-02-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,42.5,0.55
+2010-03-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,38.0,0.5
+2010-04-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,33.0,0.43
+2010-05-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,32.5,0.42
+2010-06-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,33.0,0.41
+2010-07-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,32.5,0.4
+2010-08-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,32.0,0.4
+2010-09-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,32.0,0.4
+2010-10-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,30.0,0.37
+2010-11-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,32.0,0.4
+2010-12-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,32.0,0.4
+2011-01-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,38.0,0.47
+2011-02-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,36.0,0.44
+2011-03-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,36.0,0.42
+2011-04-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,44.0,0.53
+2011-05-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,44.6,0.52
+2011-06-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,45.6,0.52
+2011-07-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,53.0,0.59
+2011-08-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,59.16,0.64
+2011-09-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,62.22,0.66
+2012-01-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,50.9,0.59
+2012-02-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,44.1,0.53
+2012-03-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,49.12,0.6
+2012-04-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,50.54,0.61
+2012-05-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,44.5,0.53
+2012-06-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,52.94,0.62
+2012-07-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,50.12,0.6
+2012-08-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,51.6,0.62
+2012-09-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,51.2,0.61
+2012-10-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,51.7,0.61
+2012-11-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,51.8,0.61
+2012-12-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,50.4,0.59
+2013-01-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,53.4,0.62
+2013-02-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,47.5,0.54
+2013-04-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,47.6,0.57
+2013-05-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,50.3,0.6
+2013-06-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,45.0,0.53
+2013-07-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,50.5,0.58
+2013-08-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,50.4,0.58
+2013-09-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,43.75,0.5
+2013-10-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,52.38,0.62
+2013-11-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,55.34,0.64
+2013-12-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,56.77,0.66
+2014-01-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,53.36,0.62
+2014-02-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,50.96,0.59
+2014-03-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,48.16,0.56
+2014-04-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,44.7,0.51
+2014-05-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,46.67,0.54
+2014-06-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,51.5,0.59
+2014-07-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,49.6,0.57
+2014-08-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,53.6,0.61
+2014-09-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,49.1,0.55
+2014-10-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,51.2,0.58
+2014-11-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,50.7,0.56
+2014-12-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,48.8,0.54
+2015-01-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,48.9,0.54
+2015-02-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,52.1,0.57
+2015-03-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,49.4,0.54
+2015-04-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,48.4,0.52
+2015-05-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,48.8,0.51
+2015-06-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,49.2,0.51
+2015-07-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,51.3,0.5
+2015-08-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,50.3,0.49
+2015-09-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,51.4,0.49
+2015-10-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,51.6,0.5
+2015-12-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,51.2,0.5
+2016-01-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,48.0,0.47
+2016-02-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,47.3,0.46
+2016-03-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,47.7,0.47
+2016-05-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,43.0,0.43
+2016-06-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,43.9,0.43
+2016-07-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,42.4,0.42
+2016-08-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,42.7,0.42
+2016-09-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,43.3,0.43
+2016-10-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,46.5,0.46
+2016-11-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,45.8,0.45
+2016-12-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,45.5,0.45
+2017-01-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,46.7,0.45
+2017-02-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,47.0,0.45
+2017-03-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,46.6,0.45
+2017-04-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,52.9,0.51
+2017-05-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,47.0,0.46
+2017-06-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,49.0,0.48
+2017-07-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,51.0,0.49
+2017-08-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,52.0,0.5
+2017-09-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,53.0,0.51
+2017-10-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,49.0,0.47
+2017-11-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,48.0,0.46
+2017-12-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,50.0,0.48
+2018-01-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,52.0,0.51
+2018-02-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,53.0,0.52
+2018-03-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,52.0,0.51
+2018-04-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,53.0,0.53
+2018-05-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,48.0,0.48
+2018-06-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,45.0,0.45
+2018-07-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,41.0,0.41
+2018-08-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,39.0,0.39
+2018-09-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,41.0,0.41
+2018-10-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,42.0,0.42
+2018-11-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,44.0,0.43
+2018-12-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,43.0,0.42
+2019-01-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,41.0,0.4
+2019-02-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,44.0,0.44
+2019-03-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,47.0,0.47
+2019-04-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,49.0,0.49
+2019-05-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,50.0,0.5
+2019-06-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,47.0,0.46
+2019-07-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,46.0,0.45
+2019-08-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,46.8,0.45
+2019-09-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,46.5,0.45
+2019-10-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,50.0,0.48
+2019-11-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,49.0,0.48
+2019-12-15,Eastern,Marsabit,Marsabit,Maize,Retail,KG,45.0,0.44
+2006-01-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,2799.0,38.93
+2006-02-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,3150.0,43.93
+2006-03-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,3305.0,45.68
+2006-04-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,3060.0,43.05
+2006-05-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,3311.0,46.18
+2006-06-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,2978.0,40.49
+2006-07-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,2260.0,30.73
+2006-08-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,1975.0,27.2
+2006-09-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,2700.0,36.89
+2006-10-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,2400.0,33.28
+2006-11-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,2675.0,37.7
+2006-12-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,2600.0,37.38
+2007-01-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,2730.0,39.22
+2007-02-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,2784.0,40.38
+2007-03-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,2729.0,39.32
+2007-04-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,2840.0,41.45
+2007-05-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,2772.0,41.19
+2007-06-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,2800.0,42.23
+2007-07-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,2723.0,40.79
+2007-08-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,2412.0,36.16
+2007-09-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,2423.0,36.15
+2007-10-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,2615.0,39.38
+2007-11-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,2800.0,42.3
+2007-12-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,2913.0,46.39
+2008-01-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,3200.0,47.37
+2008-02-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,3880.0,55.31
+2008-03-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,4000.0,61.41
+2008-04-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,4680.0,76.12
+2008-05-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,4800.0,76.62
+2008-06-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,4784.0,74.58
+2008-07-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,3913.0,58.19
+2008-08-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,3456.0,51.28
+2008-09-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,3775.0,53.24
+2008-10-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,4233.0,56.03
+2008-11-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,4117.0,52.83
+2008-12-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,4267.0,55.12
+2009-01-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,4767.0,59.66
+2009-02-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,4617.0,58.08
+2009-03-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,4695.0,58.65
+2009-04-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,4898.0,61.3
+2009-05-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,4950.0,63.3
+2009-06-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,4437.0,56.88
+2009-07-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,4520.0,58.63
+2009-08-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,4660.0,61.2
+2009-09-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,4925.0,65.1
+2009-10-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,4850.0,64.45
+2009-11-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,4850.0,65.07
+2009-12-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,4978.0,66.2
+2010-01-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,5000.0,66.05
+2010-02-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,5010.0,64.94
+2010-03-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,5067.0,66.06
+2010-04-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,5033.0,65.7
+2010-05-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,4178.0,53.38
+2010-06-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,3627.0,45.03
+2010-07-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,2842.0,34.91
+2010-08-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,2783.0,34.7
+2010-09-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,3000.0,37.24
+2010-10-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,4400.0,54.83
+2010-11-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,3990.0,49.63
+2010-12-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,4025.0,50.09
+2011-01-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,4780.0,59.21
+2011-02-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,5670.0,69.7
+2011-03-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,6109.0,71.37
+2011-04-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,7650.0,91.4
+2011-05-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,8700.0,100.93
+2011-06-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,9000.0,101.98
+2011-07-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,6660.0,74.41
+2011-08-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,6300.0,68.03
+2011-09-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,5850.0,61.71
+2011-10-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,6330.0,63.48
+2011-11-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,6373.0,67.87
+2011-12-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,5293.0,62.27
+2012-01-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,5400.0,62.12
+2012-02-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,5400.0,65.3
+2012-03-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,5670.0,68.98
+2012-04-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,7334.0,88.43
+2012-05-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,9000.0,107.14
+2012-06-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,8800.0,103.83
+2012-07-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,7718.0,91.88
+2012-08-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,7320.0,87.25
+2012-10-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,6912.0,81.56
+2012-11-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,6435.0,75.31
+2012-12-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,5850.0,67.98
+2013-01-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,5994.0,69.13
+2013-02-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,6750.0,77.32
+2013-03-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,7488.0,87.58
+2013-04-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,8775.0,104.84
+2013-05-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,8558.0,102.31
+2013-06-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,6953.0,81.42
+2013-07-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,6354.0,73.2
+2013-08-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,6750.0,77.5
+2013-09-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,7133.0,81.49
+2013-10-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,7881.0,92.77
+2013-11-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,8545.0,99.07
+2013-12-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,8550.0,99.07
+2014-01-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,8353.0,97.41
+2014-02-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,8094.0,93.81
+2014-03-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,8481.25,98.16
+2014-04-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,9000.0,103.69
+2014-05-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,8529.0,97.81
+2014-06-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,8100.0,92.19
+2014-07-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,7200.0,82.1
+2014-08-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,6930.0,78.75
+2014-09-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,6750.0,76.01
+2014-10-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,7300.0,82.16
+2014-11-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,7470.0,83.09
+2014-12-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,8100.0,89.6
+2015-01-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,8100.0,88.82
+2015-02-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,8595.0,93.93
+2015-03-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,8175.0,88.97
+2015-04-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,6900.0,73.88
+2015-05-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,6750.0,70.46
+2015-06-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,6429.0,66.21
+2015-07-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,6226.67,61.17
+2015-08-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,5625.0,55.0
+2015-09-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,5400.0,51.14
+2015-10-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,6338.0,61.47
+2015-11-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,6975.0,68.2
+2015-12-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,7140.0,69.9
+2016-01-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,7000.0,68.43
+2016-02-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,6770.0,66.37
+2016-03-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,7668.0,75.62
+2016-04-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,8325.0,82.34
+2016-05-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,8100.0,80.52
+2016-06-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,8100.0,80.04
+2016-07-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,7987.5,78.93
+2016-08-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,7650.0,75.46
+2016-09-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,7560.0,74.78
+2016-10-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,6862.5,67.77
+2016-11-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,6750.0,66.44
+2016-12-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,6975.0,68.28
+2017-01-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,7380.0,71.1
+2017-02-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,8100.0,78.25
+2017-03-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,8640.0,84.0
+2017-04-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,9900.0,95.84
+2017-05-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,9900.0,96.07
+2017-06-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,9180.0,89.0
+2017-07-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,10350.0,99.63
+2017-08-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,9864.0,95.21
+2017-09-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,8820.0,85.63
+2017-10-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,8620.0,83.53
+2017-11-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,9000.0,86.83
+2017-12-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,8381.25,81.29
+2018-01-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,8892.0,86.41
+2018-02-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,7680.0,75.89
+2018-03-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,8100.0,80.04
+2018-04-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,8100.0,80.57
+2018-05-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,7578.0,75.55
+2018-06-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,7200.0,71.22
+2018-07-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,7312.5,72.83
+2018-08-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,7650.0,75.97
+2018-09-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,7447.5,73.86
+2018-10-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,7087.5,70.38
+2018-11-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,7200.0,69.84
+2018-12-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,7610.62,74.32
+2019-01-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,8805.0,86.58
+2019-02-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,8257.5,82.58
+2019-03-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,8694.0,86.81
+2019-04-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,9720.0,96.33
+2019-05-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,9900.0,98.07
+2019-06-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,9720.0,95.47
+2019-07-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,9000.0,87.38
+2019-08-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,8550.0,82.81
+2019-09-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,8100.0,78.11
+2019-10-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,7785.0,75.11
+2019-11-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,7965.0,78.2
+2019-12-15,Rift Valley,Uasin Gishu,Eldoret,Beans,Wholesale,90 KG,8100.0,79.78
+2006-01-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,4000.0,55.63
+2006-02-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,4000.0,55.79
+2006-03-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,4515.0,62.4
+2006-04-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,4640.0,65.27
+2006-05-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,4543.0,63.36
+2006-06-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,3340.0,45.41
+2006-07-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,3200.0,43.52
+2006-08-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,2777.0,38.25
+2006-09-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,2811.0,38.4
+2006-10-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,2889.0,40.06
+2006-11-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,3200.0,45.1
+2006-12-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,3467.0,49.85
+2007-01-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,3300.0,47.41
+2007-02-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,3170.0,45.98
+2007-03-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,3530.0,50.86
+2007-04-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,3600.0,52.54
+2007-05-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,3257.0,48.4
+2007-06-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,3200.0,48.27
+2007-07-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,3733.0,55.93
+2007-08-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,4000.0,59.97
+2007-09-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,3415.0,50.95
+2007-10-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,3367.0,50.71
+2007-11-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,4000.0,60.42
+2007-12-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,4000.0,63.69
+2008-02-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,7500.0,106.91
+2008-03-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,7500.0,115.15
+2008-04-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,6200.0,100.85
+2008-05-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,5647.0,90.14
+2008-06-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,4800.0,74.82
+2008-07-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,4347.0,64.64
+2008-08-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,4800.0,71.22
+2008-09-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,4800.0,67.7
+2008-10-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,4800.0,63.53
+2008-11-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,5260.0,67.49
+2008-12-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,6220.0,80.35
+2009-01-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,6375.0,79.79
+2009-02-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,6380.0,80.25
+2009-03-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,6240.0,77.95
+2009-04-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,5880.0,73.59
+2009-05-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,5378.0,68.77
+2009-06-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,4375.0,56.08
+2009-07-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,4318.0,56.01
+2009-08-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,4400.0,57.78
+2009-09-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,5467.0,72.27
+2009-10-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,5550.0,73.75
+2009-11-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,5600.0,75.13
+2009-12-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,5196.0,69.1
+2010-01-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,4608.0,60.87
+2010-02-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,4500.0,58.33
+2010-03-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,4560.0,59.45
+2010-04-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,4673.0,61.01
+2010-05-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,4328.0,55.3
+2010-06-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,4252.0,52.79
+2010-07-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,3820.0,46.93
+2010-08-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,4133.0,51.53
+2010-09-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,5760.0,71.51
+2010-10-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,5200.0,64.8
+2010-11-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,4990.0,62.06
+2010-12-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,5156.0,64.17
+2011-01-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,5320.0,65.9
+2011-02-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,5280.0,64.9
+2011-03-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,5880.0,68.69
+2011-04-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,6300.0,75.27
+2011-05-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,7887.0,91.5
+2011-06-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,7600.0,86.12
+2011-07-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,7020.0,78.44
+2011-08-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,7133.0,77.03
+2011-09-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,6848.0,72.24
+2011-10-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,7200.0,72.2
+2011-11-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,7200.0,76.68
+2011-12-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,6480.0,76.24
+2012-01-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,6500.0,74.77
+2012-02-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,6700.0,81.02
+2012-03-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,6800.0,82.73
+2012-04-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,6860.0,82.72
+2012-05-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,8000.0,95.24
+2012-06-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,7230.0,85.31
+2012-07-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,6745.0,80.3
+2012-08-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,6420.0,76.52
+2012-09-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,6200.0,73.43
+2012-10-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,6173.0,72.84
+2012-11-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,6000.0,70.22
+2012-12-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,6000.0,69.73
+2013-01-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,5960.0,68.74
+2013-02-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,6010.0,68.84
+2013-03-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,6768.0,79.16
+2013-04-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,7200.0,86.02
+2013-05-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,7164.0,85.64
+2013-06-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,6960.0,81.5
+2013-07-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,6564.0,75.62
+2013-08-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,6295.0,72.27
+2013-09-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,7040.0,80.43
+2013-10-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,7200.0,84.76
+2013-11-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,6993.0,81.08
+2013-12-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,6831.0,79.15
+2014-01-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,6800.0,79.3
+2014-02-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,7200.0,83.45
+2014-03-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,7660.0,88.66
+2014-04-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,8000.0,92.17
+2014-05-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,7829.0,89.78
+2014-06-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,7657.0,87.14
+2014-07-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,7188.57,81.97
+2014-08-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,6858.33,77.94
+2014-09-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,6800.0,76.58
+2014-10-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,6780.95,76.32
+2014-11-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,6800.0,75.64
+2014-12-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,6800.0,75.22
+2015-01-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,6864.0,75.26
+2015-02-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,6445.0,70.44
+2015-03-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,7200.0,78.36
+2015-04-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,7467.0,79.95
+2015-05-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,7744.0,80.84
+2015-06-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,7900.0,81.36
+2015-07-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,6933.33,68.11
+2015-08-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,6800.0,66.49
+2015-09-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,6412.5,60.72
+2015-10-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,6461.0,62.67
+2015-11-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,6800.0,66.49
+2015-12-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,6800.0,66.57
+2016-01-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,6800.0,66.47
+2016-02-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,6860.0,67.25
+2016-03-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,7808.0,77.0
+2016-05-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,8000.0,79.52
+2016-06-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,7380.0,72.92
+2016-07-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,7400.0,73.12
+2016-08-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,7200.0,71.02
+2016-09-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,7200.0,71.22
+2016-10-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,7200.0,71.1
+2016-11-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,5933.0,58.4
+2016-12-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,5990.0,58.64
+2017-01-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,7920.0,76.3
+2017-02-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,8470.0,81.83
+2017-03-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,9616.0,93.49
+2017-04-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,10000.0,96.81
+2017-05-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,9920.0,96.26
+2017-06-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,8768.0,85.0
+2017-07-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,7200.0,69.31
+2017-08-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,7200.0,69.5
+2017-09-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,7520.0,73.01
+2017-10-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,8000.0,77.52
+2017-11-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,8000.0,77.18
+2017-12-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,7640.0,74.1
+2018-01-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,7600.0,73.86
+2018-02-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,7600.0,75.1
+2018-03-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,8700.0,85.97
+2018-04-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,8800.0,87.53
+2018-05-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,8040.0,80.16
+2018-06-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,7020.0,69.44
+2018-07-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,6410.0,63.84
+2018-08-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,6133.33,60.91
+2018-09-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,5925.0,58.76
+2018-10-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,6900.0,68.52
+2018-11-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,7200.0,69.84
+2018-12-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,7200.0,70.31
+2019-01-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,7312.0,71.9
+2019-02-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,8000.0,8.0
+2019-03-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,8000.0,79.88
+2019-04-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,8400.0,83.25
+2019-05-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,9600.0,95.1
+2019-06-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,9320.0,91.54
+2019-07-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,9760.0,94.76
+2019-08-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,9200.0,89.1
+2019-09-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,9200.0,88.72
+2019-10-15,Nyanza,Kisumu,Kisumu,Beans,Wholesale,90 KG,9200.0,88.76
+2006-01-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,3246.0,45.15
+2006-02-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,3400.0,47.42
+2006-03-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,3958.75,54.72
+2006-04-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,3995.0,56.2
+2006-05-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,3978.95,55.49
+2006-06-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,2706.25,36.79
+2006-07-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,2750.0,37.4
+2006-08-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,2798.75,38.55
+2006-09-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,3043.75,41.58
+2006-10-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,3023.75,41.93
+2006-11-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,2774.0,39.1
+2006-12-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,2758.75,39.67
+2007-01-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,3000.0,43.1
+2007-02-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,3052.5,44.27
+2007-03-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,3071.88,44.26
+2007-04-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,3050.0,44.51
+2007-05-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,3195.24,47.48
+2007-06-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,3194.44,48.18
+2007-07-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,3310.87,49.6
+2007-08-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,3371.74,50.55
+2007-09-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,3517.5,52.48
+2007-10-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,3272.73,49.29
+2007-11-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,3450.0,52.11
+2007-12-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,3488.89,55.56
+2008-01-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,4373.68,64.75
+2008-02-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,4600.0,65.57
+2008-03-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,4800.0,73.69
+2008-04-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,4713.64,76.67
+2008-05-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,4592.86,73.31
+2008-06-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,4123.96,64.29
+2008-07-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,4938.1,73.43
+2008-08-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,5239.47,77.74
+2008-09-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,5547.5,78.24
+2008-10-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,5476.67,72.49
+2008-11-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,4525.0,58.06
+2008-12-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,4402.5,56.87
+2009-01-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,4045.0,50.63
+2009-02-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,4513.0,56.77
+2009-03-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,4538.0,56.69
+2009-04-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,5014.0,62.75
+2009-05-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,5085.0,65.03
+2009-06-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,4440.0,56.92
+2009-07-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,4490.0,58.24
+2009-08-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,4949.0,64.99
+2009-09-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,5144.0,68.0
+2009-10-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,5238.0,69.61
+2009-11-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,5193.0,69.67
+2009-12-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,4397.0,58.47
+2010-01-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,4400.0,58.12
+2010-02-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,4367.5,56.61
+2010-03-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,4531.33,59.08
+2010-04-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,4538.4,59.25
+2010-05-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,4741.25,60.58
+2010-06-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,4172.0,51.79
+2010-07-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,4227.0,51.93
+2010-08-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,4347.0,54.2
+2010-09-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,4324.0,53.68
+2010-10-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,4533.0,56.49
+2010-11-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,4310.0,53.61
+2010-12-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,3816.0,47.49
+2011-01-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,4229.0,52.38
+2011-02-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,4482.0,55.1
+2011-03-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,5365.0,62.68
+2011-04-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,6373.0,76.14
+2011-05-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,6173.0,71.61
+2011-06-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,5500.0,62.32
+2011-07-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,5170.0,57.77
+2011-08-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,5685.0,61.39
+2011-09-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,5686.0,59.98
+2011-10-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,5275.0,52.9
+2011-11-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,5184.0,55.21
+2011-12-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,5000.0,58.82
+2012-01-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,5470.0,62.92
+2012-02-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,5170.0,62.52
+2012-03-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,5905.0,71.84
+2012-04-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,6165.0,74.34
+2012-05-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,6350.0,75.6
+2012-06-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,6820.0,80.47
+2012-07-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,5290.0,62.98
+2012-08-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,5200.0,61.98
+2012-10-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,5560.0,65.6
+2012-11-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,4830.0,56.52
+2012-12-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,4993.0,58.02
+2013-01-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,2601.0,3.0
+2013-02-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,4619.0,52.91
+2013-03-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,5456.0,63.81
+2013-04-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,6050.0,72.28
+2013-05-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,6056.0,72.4
+2013-06-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,5655.0,66.22
+2013-07-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,5712.0,65.81
+2013-08-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,5848.0,67.14
+2013-09-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,6470.0,73.91
+2013-10-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,6188.0,72.84
+2013-11-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,5505.0,63.83
+2013-12-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,5189.0,60.13
+2014-01-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,5738.0,66.92
+2014-02-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,5947.0,68.92
+2014-03-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,6306.0,72.99
+2014-04-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,6500.0,74.88
+2014-05-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,6290.0,72.13
+2014-06-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,5191.0,59.08
+2014-07-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,5035.71,57.42
+2014-08-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,5103.75,58.0
+2014-09-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,5224.0,58.83
+2014-10-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,5219.44,58.74
+2014-11-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,5025.0,55.9
+2014-12-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,5410.0,59.85
+2015-01-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,5596.0,61.36
+2015-02-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,5760.0,62.95
+2015-03-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,6800.0,74.01
+2015-04-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,6933.0,74.23
+2015-05-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,8496.0,88.68
+2015-06-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,7169.0,73.83
+2015-07-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,5633.33,55.34
+2015-08-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,5650.0,55.25
+2015-09-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,5795.0,54.88
+2015-10-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,6017.0,58.36
+2015-11-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,5800.0,56.71
+2015-12-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,5478.0,53.63
+2016-01-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,6165.0,60.26
+2016-02-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,6400.0,62.75
+2016-03-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,5850.0,57.69
+2016-05-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,6148.0,61.11
+2016-06-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,6154.0,60.81
+2016-07-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,5978.38,59.07
+2016-08-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,5884.0,58.04
+2016-09-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,6236.0,61.68
+2016-10-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,6292.5,62.14
+2016-11-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,7200.0,70.87
+2016-12-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,7200.0,70.48
+2017-01-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,6385.0,61.51
+2017-02-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,7155.0,69.12
+2017-03-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,7680.0,74.66
+2017-04-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,8200.0,79.38
+2017-05-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,7785.0,75.55
+2017-06-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,6879.5,66.69
+2017-07-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,6380.0,61.42
+2017-08-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,6848.0,66.1
+2017-09-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,6960.0,67.57
+2017-10-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,6882.5,66.69
+2017-11-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,6605.0,63.72
+2017-12-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,5500.0,53.35
+2018-01-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,5785.0,56.22
+2018-02-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,5640.0,55.73
+2018-03-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,5606.25,55.4
+2018-04-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,5725.0,56.95
+2018-05-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,5772.0,57.55
+2018-06-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,4566.25,45.17
+2018-07-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,4425.0,44.07
+2018-08-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,4762.0,47.29
+2018-09-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,5052.5,50.11
+2018-10-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,5243.75,52.07
+2018-11-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,5070.0,49.18
+2018-12-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,4833.33,47.2
+2019-01-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,3288.0,32.33
+2019-02-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,6227.0,62.27
+2019-03-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,6060.0,60.51
+2019-04-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,5738.75,56.88
+2019-05-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,7925.0,78.5
+2019-06-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,7483.75,73.5
+2019-07-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,8892.0,86.33
+2019-08-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,7800.0,75.54
+2019-09-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,7670.0,73.96
+2019-10-15,Coast,Mombasa,Mombasa,Beans,Wholesale,90 KG,7800.0,75.25
+2006-01-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,3175.0,44.16
+2006-02-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,3485.0,48.61
+2006-03-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,3760.0,51.97
+2006-04-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,4310.0,60.63
+2006-05-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,4505.0,62.83
+2006-06-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,3017.0,41.02
+2006-07-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,2760.0,37.53
+2006-08-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,2888.0,39.78
+2006-09-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,3093.0,42.25
+2006-10-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,3280.0,45.48
+2006-11-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,3032.0,42.73
+2006-12-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,3078.0,44.26
+2007-01-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,3107.0,44.64
+2007-02-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,2810.0,40.75
+2007-03-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,3056.0,44.03
+2007-04-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,3016.0,44.02
+2007-05-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,3071.0,45.63
+2007-06-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,3083.0,46.5
+2007-07-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,3261.0,48.85
+2007-08-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,3148.0,47.2
+2007-09-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,3237.0,48.29
+2007-10-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,3023.0,45.53
+2007-11-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,3300.0,49.85
+2007-12-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,4350.0,69.27
+2008-01-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,3700.0,54.77
+2008-02-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,3800.0,54.17
+2008-03-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,4980.0,76.46
+2008-04-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,5373.0,87.39
+2008-05-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,5310.0,84.76
+2008-06-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,5093.0,79.39
+2008-07-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,4962.0,73.78
+2008-08-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,4771.0,70.79
+2008-09-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,4800.0,67.7
+2008-10-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,4940.0,65.39
+2008-11-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,5019.0,64.4
+2008-12-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,4719.0,60.96
+2009-01-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,4825.0,60.39
+2009-02-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,4910.0,61.76
+2009-03-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,4800.0,59.96
+2009-04-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,4830.0,60.45
+2009-05-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,5425.0,69.37
+2009-06-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,5050.0,64.74
+2009-07-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,4500.0,58.37
+2009-08-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,4435.0,58.24
+2009-09-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,4600.0,60.81
+2009-10-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,4688.0,62.3
+2009-11-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,4920.0,66.01
+2009-12-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,4776.0,63.51
+2010-01-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,4592.0,60.66
+2010-02-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,4248.0,55.06
+2010-03-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,4672.0,60.91
+2010-04-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,4764.0,62.19
+2010-05-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,4800.0,61.33
+2010-06-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,4730.0,58.72
+2010-07-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,4664.0,57.3
+2010-08-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,4452.0,55.51
+2010-09-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,4400.0,54.62
+2010-10-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,4450.0,55.45
+2010-11-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,4455.0,55.41
+2010-12-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,4752.0,59.14
+2011-01-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,4730.0,58.59
+2011-02-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,4677.0,57.49
+2011-03-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,5185.0,60.57
+2011-04-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,7287.0,87.06
+2011-05-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,7127.0,82.68
+2011-06-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,6285.0,71.22
+2011-07-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,4945.0,55.25
+2011-08-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,5510.0,59.5
+2011-09-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,6846.0,72.22
+2011-10-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,5917.0,59.34
+2011-11-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,5580.0,59.42
+2011-12-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,5770.0,67.88
+2012-01-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,5200.0,59.82
+2012-02-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,5400.0,65.3
+2012-03-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,5950.0,72.38
+2012-04-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,6075.0,73.25
+2012-05-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,6800.0,80.95
+2012-06-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,6240.0,73.63
+2012-07-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,5290.0,62.98
+2012-08-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,5165.0,61.56
+2012-09-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,4709.0,55.77
+2012-10-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,5364.0,63.29
+2012-11-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,5200.0,60.85
+2012-12-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,5200.0,60.43
+2013-01-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,5112.0,58.96
+2013-02-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,5080.0,58.19
+2013-03-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,6325.0,73.98
+2013-04-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,5938.0,70.94
+2013-05-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,5950.0,71.13
+2013-06-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,5650.0,66.16
+2013-07-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,5920.0,68.2
+2013-08-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,6225.0,71.47
+2013-09-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,5555.0,63.46
+2013-10-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,6297.0,74.13
+2013-11-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,6212.0,72.02
+2013-12-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,6000.0,69.52
+2014-01-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,6000.0,69.97
+2014-02-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,6147.0,71.24
+2014-03-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,6458.75,74.75
+2014-04-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,6660.0,76.73
+2014-05-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,6824.0,78.26
+2014-06-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,6450.0,73.41
+2014-07-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,4734.29,53.98
+2014-08-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,5356.25,60.87
+2014-09-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,5552.0,62.52
+2014-10-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,5600.0,63.03
+2014-11-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,5516.67,61.36
+2014-12-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,5800.0,64.16
+2015-01-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,5696.0,62.46
+2015-02-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,6310.0,68.96
+2015-03-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,6400.0,69.65
+2015-04-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,7100.0,76.02
+2015-05-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,7356.0,76.78
+2015-06-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,7325.0,75.44
+2015-07-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,6400.0,62.87
+2015-08-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,5850.0,57.2
+2015-09-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,5465.0,51.75
+2015-10-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,5817.0,56.42
+2015-11-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,5980.0,58.47
+2015-12-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,5965.0,58.39
+2016-01-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,5925.0,57.92
+2016-02-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,5775.0,56.62
+2016-03-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,5960.0,58.78
+2016-05-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,5940.0,59.05
+2016-06-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,5823.0,57.54
+2016-07-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,6232.69,61.59
+2016-08-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,6277.33,61.92
+2016-09-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,6087.0,60.21
+2016-10-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,6055.0,59.79
+2016-11-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,6060.0,59.65
+2016-12-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,5820.0,56.98
+2017-01-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,6031.2,58.1
+2017-02-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,6971.5,67.35
+2017-03-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,7024.0,68.29
+2017-04-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,7532.5,72.92
+2017-05-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,7708.0,74.8
+2017-06-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,7813.0,75.74
+2017-07-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,7635.0,73.5
+2017-08-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,7298.0,70.44
+2017-09-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,7500.0,72.82
+2017-10-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,7621.88,73.86
+2017-11-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,7527.0,72.62
+2017-12-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,6836.25,66.31
+2018-01-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,7056.0,68.57
+2018-02-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,7290.0,72.04
+2018-03-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,7290.0,72.04
+2018-04-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,7228.12,71.9
+2018-05-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,7200.0,71.78
+2018-06-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,6918.75,68.43
+2018-07-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,6700.0,66.73
+2018-08-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,6652.0,66.06
+2018-09-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,6907.5,68.5
+2018-10-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,6087.5,60.45
+2018-11-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,5925.0,57.47
+2018-12-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,5867.5,57.3
+2019-01-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,5800.0,57.03
+2019-02-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,5968.75,59.69
+2019-03-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,6280.0,62.71
+2019-04-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,6550.0,64.92
+2019-05-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,7458.0,73.88
+2019-06-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,6292.5,61.8
+2019-07-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,7544.0,73.24
+2019-08-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,8070.0,78.16
+2019-09-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,8690.0,83.8
+2019-10-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,10192.0,98.33
+2019-11-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,9800.0,96.22
+2019-12-15,Nairobi,Nairobi,Nairobi,Beans,Wholesale,90 KG,9660.0,95.14
+2015-01-15,Rift Valley,Nakuru,Nakuru,Beans,Wholesale,90 KG,5400.0,59.21
+2015-02-15,Rift Valley,Nakuru,Nakuru,Beans,Wholesale,90 KG,5400.0,59.02
+2015-03-15,Rift Valley,Nakuru,Nakuru,Beans,Wholesale,90 KG,6200.0,67.48
+2015-04-15,Rift Valley,Nakuru,Nakuru,Beans,Wholesale,90 KG,7000.0,74.95
+2015-05-15,Rift Valley,Nakuru,Nakuru,Beans,Wholesale,90 KG,7000.0,73.07
+2015-06-15,Rift Valley,Nakuru,Nakuru,Beans,Wholesale,90 KG,7000.0,72.09
+2015-07-15,Rift Valley,Nakuru,Nakuru,Beans,Wholesale,90 KG,6600.0,64.83
+2015-08-15,Rift Valley,Nakuru,Nakuru,Beans,Wholesale,90 KG,5400.0,52.8
+2015-09-15,Rift Valley,Nakuru,Nakuru,Beans,Wholesale,90 KG,5117.5,48.46
+2015-10-15,Rift Valley,Nakuru,Nakuru,Beans,Wholesale,90 KG,5115.0,49.61
+2015-11-15,Rift Valley,Nakuru,Nakuru,Beans,Wholesale,90 KG,5000.0,48.89
+2015-12-15,Rift Valley,Nakuru,Nakuru,Beans,Wholesale,90 KG,4955.0,48.51
+2016-01-15,Rift Valley,Nakuru,Nakuru,Beans,Wholesale,90 KG,5340.0,52.2
+2016-02-15,Rift Valley,Nakuru,Nakuru,Beans,Wholesale,90 KG,5825.0,57.11
+2016-03-15,Rift Valley,Nakuru,Nakuru,Beans,Wholesale,90 KG,7668.0,75.62
+2016-05-15,Rift Valley,Nakuru,Nakuru,Beans,Wholesale,90 KG,6125.0,60.88
+2016-06-15,Rift Valley,Nakuru,Nakuru,Beans,Wholesale,90 KG,5250.0,51.88
+2016-07-15,Rift Valley,Nakuru,Nakuru,Beans,Wholesale,90 KG,5125.0,50.64
+2016-08-15,Rift Valley,Nakuru,Nakuru,Beans,Wholesale,90 KG,5040.0,49.71
+2016-09-15,Rift Valley,Nakuru,Nakuru,Beans,Wholesale,90 KG,5000.0,49.46
+2016-10-15,Rift Valley,Nakuru,Nakuru,Beans,Wholesale,90 KG,5000.0,49.37
+2016-11-15,Rift Valley,Nakuru,Nakuru,Beans,Wholesale,90 KG,5000.0,49.21
+2016-12-15,Rift Valley,Nakuru,Nakuru,Beans,Wholesale,90 KG,5000.0,48.95
+2017-01-15,Rift Valley,Nakuru,Nakuru,Beans,Wholesale,90 KG,5000.0,48.17
+2017-02-15,Rift Valley,Nakuru,Nakuru,Beans,Wholesale,90 KG,5060.0,48.88
+2017-03-15,Rift Valley,Nakuru,Nakuru,Beans,Wholesale,90 KG,5320.0,51.72
+2017-04-15,Rift Valley,Nakuru,Nakuru,Beans,Wholesale,90 KG,7470.0,72.31
+2017-05-15,Rift Valley,Nakuru,Nakuru,Beans,Wholesale,90 KG,6560.0,63.66
+2017-06-15,Rift Valley,Nakuru,Nakuru,Beans,Wholesale,90 KG,5800.0,56.23
+2017-07-15,Rift Valley,Nakuru,Nakuru,Beans,Wholesale,90 KG,5590.0,53.81
+2017-08-15,Rift Valley,Nakuru,Nakuru,Beans,Wholesale,90 KG,5500.0,53.09
+2017-09-15,Rift Valley,Nakuru,Nakuru,Beans,Wholesale,90 KG,5500.0,53.4
+2017-10-15,Rift Valley,Nakuru,Nakuru,Beans,Wholesale,90 KG,5500.0,53.29
+2017-11-15,Rift Valley,Nakuru,Nakuru,Beans,Wholesale,90 KG,5500.0,53.06
+2017-12-15,Rift Valley,Nakuru,Nakuru,Beans,Wholesale,90 KG,5500.0,53.35
+2018-01-15,Rift Valley,Nakuru,Nakuru,Beans,Wholesale,90 KG,5840.0,56.75
+2018-02-15,Rift Valley,Nakuru,Nakuru,Beans,Wholesale,90 KG,7200.0,71.15
+2018-03-15,Rift Valley,Nakuru,Nakuru,Beans,Wholesale,90 KG,6975.0,68.92
+2018-04-15,Rift Valley,Nakuru,Nakuru,Beans,Wholesale,90 KG,7200.0,71.62
+2018-05-15,Rift Valley,Nakuru,Nakuru,Beans,Wholesale,90 KG,7170.0,71.49
+2018-06-15,Rift Valley,Nakuru,Nakuru,Beans,Wholesale,90 KG,6430.0,63.6
+2018-07-15,Rift Valley,Nakuru,Nakuru,Beans,Wholesale,90 KG,5695.0,56.72
+2018-08-15,Rift Valley,Nakuru,Nakuru,Beans,Wholesale,90 KG,5320.0,52.83
+2018-09-15,Rift Valley,Nakuru,Nakuru,Beans,Wholesale,90 KG,5400.0,53.55
+2018-10-15,Rift Valley,Nakuru,Nakuru,Beans,Wholesale,90 KG,5400.0,53.62
+2018-11-15,Rift Valley,Nakuru,Nakuru,Beans,Wholesale,90 KG,5400.0,52.38
+2018-12-15,Rift Valley,Nakuru,Nakuru,Beans,Wholesale,90 KG,5400.0,52.73
+2019-01-15,Rift Valley,Nakuru,Nakuru,Beans,Wholesale,90 KG,5400.0,53.1
+2019-02-15,Rift Valley,Nakuru,Nakuru,Beans,Wholesale,90 KG,5000.0,5.0
+2019-03-15,Rift Valley,Nakuru,Nakuru,Beans,Wholesale,90 KG,5288.0,52.8
+2019-04-15,Rift Valley,Nakuru,Nakuru,Beans,Wholesale,90 KG,7700.0,76.31
+2019-05-15,Rift Valley,Nakuru,Nakuru,Beans,Wholesale,90 KG,8500.0,84.2
+2019-06-15,Rift Valley,Nakuru,Nakuru,Beans,Wholesale,90 KG,8500.0,83.48
+2019-07-15,Rift Valley,Nakuru,Nakuru,Beans,Wholesale,90 KG,8500.0,82.52
+2019-08-15,Rift Valley,Nakuru,Nakuru,Beans,Wholesale,90 KG,8500.0,82.32
+2019-09-15,Rift Valley,Nakuru,Nakuru,Beans,Wholesale,90 KG,6300.0,60.75
+2019-10-15,Rift Valley,Nakuru,Nakuru,Beans,Wholesale,90 KG,6040.0,58.27
+2019-11-15,Rift Valley,Nakuru,Nakuru,Beans,Wholesale,90 KG,5000.0,49.09
+2019-12-15,Rift Valley,Nakuru,Nakuru,Beans,Wholesale,90 KG,5000.0,49.24
+2006-01-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,1192.0,16.58
+2006-02-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,1304.0,18.19
+2006-03-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,1162.22,16.06
+2006-04-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,1277.0,17.96
+2006-05-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,1445.26,20.16
+2006-06-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,1549.0,21.06
+2006-07-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,1550.0,21.08
+2006-08-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,1529.5,21.07
+2006-09-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,1124.38,15.36
+2006-10-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,1053.0,14.6
+2006-11-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,1000.0,14.09
+2006-12-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,1000.0,14.38
+2007-01-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,947.5,13.61
+2007-02-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,944.21,13.69
+2007-03-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,1027.5,14.81
+2007-04-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,1113.33,16.25
+2007-05-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,1171.43,17.41
+2007-06-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,1204.71,18.17
+2007-07-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,1191.43,17.85
+2007-08-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,1195.29,17.92
+2007-09-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,1200.77,17.91
+2007-10-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,1303.12,19.63
+2007-11-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,1214.12,18.34
+2007-12-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,1156.25,18.41
+2008-01-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,1200.0,17.76
+2008-02-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,1000.0,14.26
+2008-03-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,1175.0,18.04
+2008-04-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,1449.0,23.57
+2008-05-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,1778.0,28.38
+2008-06-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,1776.0,27.69
+2008-07-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,1679.0,24.97
+2008-08-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,1854.0,27.51
+2008-09-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,2205.0,31.1
+2008-10-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,2089.0,27.65
+2008-11-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,1871.0,24.01
+2008-12-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,1663.0,21.48
+2009-01-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,1743.0,21.81
+2009-02-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,2295.0,28.87
+2009-03-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,2632.0,32.88
+2009-04-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,2705.0,33.85
+2009-05-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,2760.0,35.29
+2009-06-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,2776.0,35.59
+2009-07-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,2817.0,36.54
+2009-08-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,2781.0,36.52
+2009-09-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,2908.0,38.44
+2009-10-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,2362.0,31.39
+2009-11-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,1989.0,26.69
+2009-12-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,2113.0,28.1
+2010-01-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,2142.0,28.3
+2010-02-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,2081.0,26.97
+2010-03-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,1953.0,25.46
+2010-04-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,1910.0,24.93
+2010-05-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,1652.0,21.11
+2010-06-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,1556.0,19.32
+2010-07-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,1500.0,18.43
+2010-08-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,1448.0,18.05
+2010-09-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,1197.0,14.86
+2010-10-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,1200.0,14.95
+2010-11-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,1210.0,15.05
+2010-12-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,1233.0,15.35
+2011-01-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,1390.0,17.22
+2011-02-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,1777.0,21.84
+2011-03-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,2072.0,24.21
+2011-04-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,2317.0,27.68
+2011-05-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,3103.0,36.0
+2011-06-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,3800.0,43.06
+2011-07-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,4225.0,47.21
+2011-08-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,3020.0,32.61
+2011-09-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,2976.0,31.39
+2011-10-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,2775.0,27.83
+2011-11-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,2844.0,30.29
+2011-12-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,2990.0,35.18
+2012-01-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,2800.0,32.21
+2012-02-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,2625.0,31.74
+2012-03-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,2589.0,31.5
+2012-04-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,2800.0,33.76
+2012-05-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,3200.0,38.1
+2012-06-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,2960.0,34.93
+2012-07-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,2870.0,34.17
+2012-08-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,3073.0,36.63
+2012-10-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,2640.0,31.15
+2012-11-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,2605.0,30.49
+2012-12-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,2600.0,30.21
+2013-01-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,2642.0,30.47
+2013-02-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,2590.0,29.67
+2013-03-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,2670.0,31.23
+2013-04-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,2833.0,33.85
+2013-05-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,2846.0,34.02
+2013-06-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,2710.0,31.73
+2013-07-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,2472.0,28.48
+2013-08-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,2520.0,28.93
+2013-09-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,2600.0,29.7
+2013-10-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,2600.0,30.61
+2013-11-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,2780.0,32.23
+2013-12-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,2700.0,31.29
+2014-01-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,2794.0,32.58
+2014-02-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,2840.0,32.91
+2014-03-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,3007.5,34.81
+2014-04-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,3000.0,34.56
+2014-05-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,3110.0,35.67
+2014-06-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,3100.0,35.28
+2014-07-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,3278.57,37.38
+2014-08-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,3080.0,35.0
+2014-09-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,2904.0,32.7
+2014-10-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,2487.11,27.99
+2014-11-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,2021.67,22.49
+2014-12-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,2000.0,22.12
+2015-01-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,2000.0,21.93
+2015-02-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,2020.0,22.08
+2015-03-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,2190.67,23.84
+2015-04-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,2400.0,25.7
+2015-05-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,2552.0,26.64
+2015-06-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,2550.0,26.26
+2015-07-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,2633.33,25.87
+2015-08-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,2750.0,26.89
+2015-09-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,2687.5,25.45
+2015-10-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,2577.0,25.0
+2015-11-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,2280.0,22.29
+2015-12-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,2000.0,19.58
+2016-01-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,2210.0,21.6
+2016-02-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,2320.0,22.75
+2016-03-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,2432.0,23.98
+2016-04-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,2545.0,25.17
+2016-05-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,2600.0,25.84
+2016-06-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,2600.0,25.69
+2016-07-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,2603.0,25.72
+2016-08-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,2602.4,25.67
+2016-09-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,2600.0,25.72
+2016-10-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,2600.0,25.67
+2016-11-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,2495.0,24.56
+2016-12-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,2650.0,25.94
+2017-01-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,2780.0,26.78
+2017-02-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,3150.0,30.43
+2017-03-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,3256.0,31.65
+2017-04-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,3687.5,35.7
+2017-05-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,4270.0,41.44
+2017-06-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,4320.0,41.88
+2017-07-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,4270.0,41.1
+2017-08-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,4456.0,43.01
+2017-09-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,3960.0,38.45
+2017-10-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,3060.0,29.65
+2017-11-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,2710.0,26.15
+2017-12-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,2410.0,23.38
+2018-01-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,2485.0,24.15
+2018-02-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,2413.33,23.85
+2018-03-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,2277.5,22.5
+2018-04-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,2365.0,23.52
+2018-05-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,2348.0,23.41
+2018-06-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,2030.0,20.08
+2018-07-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,1910.0,19.02
+2018-08-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,1754.0,17.42
+2018-09-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,1620.0,16.07
+2018-10-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,1600.0,15.89
+2018-11-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,1600.0,15.52
+2018-12-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,1410.0,13.77
+2019-01-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,1684.0,16.56
+2019-02-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,1855.0,18.55
+2019-03-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,1856.0,18.53
+2019-04-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,2607.5,25.84
+2019-05-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,3180.0,31.5
+2019-06-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,3200.0,31.43
+2019-07-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,3200.0,31.07
+2019-08-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,3200.0,30.99
+2019-09-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,3150.0,30.38
+2019-10-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,2968.0,28.63
+2019-11-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,3170.0,31.12
+2019-12-15,Rift Valley,Uasin Gishu,Eldoret,Maize,Wholesale,90 KG,2500.0,24.62
+2006-01-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,1320.0,18.36
+2006-02-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,1456.0,20.31
+2006-03-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,1554.55,21.49
+2006-04-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,1520.0,21.38
+2006-05-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,1720.0,23.99
+2006-06-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,1714.0,23.3
+2006-07-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,1533.33,20.85
+2006-08-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,1231.0,16.96
+2006-09-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,1242.0,16.97
+2006-10-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,1282.0,17.78
+2006-11-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,1400.0,19.73
+2006-12-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,1400.0,20.13
+2007-01-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,1400.0,20.11
+2007-02-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,1400.0,20.3
+2007-03-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,1384.35,19.95
+2007-04-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,1225.56,17.89
+2007-05-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,1292.38,19.2
+2007-06-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,1272.22,19.19
+2007-07-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,1386.67,20.77
+2007-08-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,1400.0,20.99
+2007-09-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,1230.77,18.36
+2007-10-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,1250.0,18.83
+2007-11-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,1306.67,19.74
+2007-12-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,1214.29,19.34
+2008-02-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,1350.0,19.24
+2008-03-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,1350.0,20.73
+2008-04-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,1950.0,31.72
+2008-05-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,2400.0,38.31
+2008-06-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,2050.0,31.96
+2008-07-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,2253.0,33.5
+2008-08-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,2200.0,32.64
+2008-09-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,2200.0,31.03
+2008-10-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,2333.0,30.88
+2008-11-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,2390.0,30.67
+2008-12-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,2800.0,36.17
+2009-01-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,2800.0,35.04
+2009-02-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,2800.0,35.22
+2009-03-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,2770.0,34.6
+2009-04-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,2660.0,33.29
+2009-05-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,2724.0,34.83
+2009-06-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,2633.0,33.75
+2009-07-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,2567.0,33.29
+2009-08-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,2483.0,32.61
+2009-09-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,2400.0,31.73
+2009-10-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,2380.0,31.63
+2009-11-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,2400.0,32.2
+2009-12-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,2395.0,31.85
+2010-01-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,2395.0,31.64
+2010-02-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,2400.0,31.11
+2010-03-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,2400.0,31.29
+2010-04-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,2360.0,30.81
+2010-05-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,1556.0,19.88
+2010-06-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,1724.0,21.4
+2010-07-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,1590.0,19.53
+2010-08-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,1560.0,19.45
+2010-09-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,1600.0,19.86
+2010-10-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,1688.0,21.03
+2010-11-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,1800.0,22.39
+2010-12-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,2000.0,24.89
+2011-01-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,2031.0,25.16
+2011-02-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,2041.0,25.09
+2011-03-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,2454.0,28.67
+2011-04-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,2800.0,33.45
+2011-05-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,3547.0,41.15
+2011-06-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,4620.0,52.35
+2011-07-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,4800.0,53.63
+2011-08-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,4000.0,43.2
+2011-09-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,3280.0,34.6
+2011-10-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,3200.0,32.09
+2011-11-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,3520.0,37.49
+2011-12-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,3580.0,42.12
+2012-01-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,3600.0,41.41
+2012-02-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,3450.0,41.72
+2012-03-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,3200.0,38.93
+2012-04-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,3800.0,45.82
+2012-05-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,4400.0,52.38
+2012-06-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,4280.0,50.5
+2012-07-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,4000.0,47.62
+2012-08-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,4000.0,47.68
+2012-09-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,3033.0,35.92
+2012-10-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,3320.0,39.17
+2012-11-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,3200.0,37.45
+2012-12-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,3200.0,37.19
+2013-01-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,3200.0,36.91
+2013-02-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,3450.0,39.52
+2013-03-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,3574.0,41.8
+2013-04-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,3600.0,43.01
+2013-05-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,3592.0,42.94
+2013-06-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,3600.0,42.15
+2013-07-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,3368.0,38.8
+2013-08-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,3200.0,36.74
+2013-09-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,3480.0,39.76
+2013-10-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,3600.0,42.38
+2013-11-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,3600.0,41.74
+2013-12-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,3600.0,41.71
+2014-01-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,3600.0,41.98
+2014-02-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,3600.0,41.72
+2014-03-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,3600.0,41.67
+2014-04-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,3600.0,41.47
+2014-05-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,3733.0,42.81
+2014-06-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,3929.0,44.72
+2014-07-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,3657.14,41.7
+2014-08-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,3306.25,37.57
+2014-09-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,3208.0,36.13
+2014-10-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,3028.57,34.09
+2014-11-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,2837.5,31.56
+2014-12-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,3200.0,35.4
+2015-01-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,3200.0,35.09
+2015-02-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,3320.0,36.28
+2015-03-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,3200.0,34.83
+2015-04-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,3267.0,34.98
+2015-05-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,3040.0,31.73
+2015-06-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,3100.0,31.93
+2015-07-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,3200.0,31.43
+2015-08-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,3200.0,31.29
+2015-09-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,3000.0,28.41
+2015-10-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,2892.0,28.05
+2015-11-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,3100.0,30.31
+2015-12-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,3200.0,31.33
+2016-01-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,3200.0,31.28
+2016-02-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,3065.0,30.05
+2016-03-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,3182.0,31.38
+2016-05-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,3200.0,31.81
+2016-06-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,3200.0,31.62
+2016-07-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,3200.0,31.62
+2016-08-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,3200.0,31.56
+2016-09-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,3180.0,31.45
+2016-10-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,3400.0,33.57
+2016-11-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,3000.0,29.53
+2016-12-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,3000.0,29.37
+2017-01-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,3600.0,34.68
+2017-02-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,4205.0,40.62
+2017-03-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,4512.0,43.87
+2017-04-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,5100.0,49.37
+2017-05-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,5200.0,50.46
+2017-06-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,4880.0,47.31
+2017-07-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,4770.0,45.92
+2017-08-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,4800.0,46.33
+2017-09-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,4800.0,46.6
+2017-10-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,4080.0,39.53
+2017-11-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,3376.0,32.57
+2017-12-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,3600.0,34.92
+2018-01-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,3600.0,34.99
+2018-02-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,3600.0,35.57
+2018-03-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,3600.0,35.57
+2018-04-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,3540.0,35.21
+2018-05-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,3200.0,31.9
+2018-06-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,3200.0,31.65
+2018-07-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,2810.0,27.99
+2018-08-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,2600.0,25.82
+2018-09-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,2500.0,24.79
+2018-10-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,2600.0,25.82
+2018-11-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,2750.0,26.67
+2018-12-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,2600.0,25.39
+2019-01-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,2600.0,25.57
+2019-02-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,2600.0,26.0
+2019-03-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,2624.0,26.2
+2019-04-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,3250.0,32.21
+2019-05-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,4000.0,39.62
+2019-06-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,4240.0,41.64
+2019-07-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,4680.0,45.44
+2019-08-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,4300.0,41.65
+2019-09-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,3800.0,36.64
+2019-10-15,Nyanza,Kisumu,Kisumu,Maize,Wholesale,90 KG,2400.0,23.15
+2006-01-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,1480.0,20.58
+2006-02-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,1523.0,21.24
+2006-03-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,1476.0,20.4
+2006-04-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,1595.0,22.44
+2006-05-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,1739.47,24.26
+2006-06-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,1814.75,24.67
+2006-07-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,1695.0,23.05
+2006-08-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,1131.25,15.58
+2006-09-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,1075.0,14.69
+2006-10-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,1133.0,15.71
+2006-11-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,1148.0,16.18
+2006-12-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,1123.12,16.15
+2007-01-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,1061.9,15.26
+2007-02-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,1062.5,15.41
+2007-03-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,1035.42,14.92
+2007-04-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,1047.37,15.29
+2007-05-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,1078.57,16.03
+2007-06-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,1200.0,18.1
+2007-07-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,1183.91,17.74
+2007-08-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,1202.17,18.02
+2007-09-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,1230.0,18.35
+2007-10-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,1213.64,18.28
+2007-11-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,1270.0,19.18
+2007-12-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,1274.44,20.29
+2008-01-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,1431.58,21.19
+2008-02-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,1425.0,20.31
+2008-03-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,1462.5,22.45
+2008-04-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,1625.0,26.43
+2008-05-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,1912.38,30.52
+2008-06-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,1909.29,29.76
+2008-07-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,2085.71,31.01
+2008-08-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,2125.0,31.53
+2008-09-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,2123.12,29.95
+2008-10-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,2306.67,30.53
+2008-11-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,2482.5,31.85
+2008-12-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,2391.25,30.89
+2009-01-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,2098.75,26.27
+2009-02-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,2700.0,33.96
+2009-03-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,2517.92,31.45
+2009-04-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,2405.0,30.1
+2009-05-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,2475.0,31.65
+2009-06-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,2435.0,31.21
+2009-07-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,2274.0,29.49
+2009-08-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,2239.38,29.41
+2009-09-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,2085.0,27.56
+2009-10-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,2282.5,30.33
+2009-11-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,2322.5,31.16
+2009-12-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,2300.0,30.59
+2010-01-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,2306.67,30.47
+2010-02-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,2115.0,27.41
+2010-03-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,1920.0,25.03
+2010-04-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,1821.0,23.77
+2010-05-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,1670.0,21.34
+2010-06-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,1526.0,18.94
+2010-07-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,1470.0,18.06
+2010-08-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,1420.0,17.71
+2010-09-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,1280.0,15.89
+2010-10-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,1205.0,15.02
+2010-11-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,1510.0,18.78
+2010-12-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,1600.0,19.91
+2011-01-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,1710.0,21.18
+2011-02-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,2137.0,26.27
+2011-03-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,2250.0,26.29
+2011-04-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,2593.0,30.98
+2011-05-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,3207.0,37.2
+2011-06-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,3800.0,43.06
+2011-07-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,4030.0,45.03
+2011-08-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,3207.5,34.64
+2011-09-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,2980.0,31.43
+2011-10-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,3015.0,30.24
+2011-11-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,3284.0,34.97
+2011-12-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,3200.0,37.65
+2012-01-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,3020.0,34.74
+2012-02-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,2830.0,34.22
+2012-03-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,2665.0,32.42
+2012-04-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,2885.0,34.79
+2012-05-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,3500.0,41.67
+2012-06-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,3375.0,39.82
+2012-07-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,3303.0,39.32
+2012-08-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,3167.0,37.75
+2012-10-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,2940.0,34.69
+2012-11-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,3095.0,36.22
+2012-12-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,3100.0,36.03
+2013-01-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,1545.0,17.82
+2013-02-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,2329.0,26.68
+2013-03-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,2806.0,32.82
+2013-04-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,2850.0,34.05
+2013-05-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,2850.0,34.07
+2013-06-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,2835.0,33.2
+2013-07-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,2828.0,32.58
+2013-08-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,2720.0,31.23
+2013-09-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,2670.0,30.5
+2013-10-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,2889.0,34.01
+2013-11-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,2847.0,33.01
+2013-12-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,2906.0,33.67
+2014-01-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,3000.0,34.99
+2014-02-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,2987.0,34.62
+2014-03-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,2990.0,34.61
+2014-04-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,3000.0,34.56
+2014-05-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,3095.0,35.49
+2014-06-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,3288.0,37.42
+2014-07-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,3115.71,35.53
+2014-08-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,2840.0,32.27
+2014-09-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,2348.0,26.44
+2014-10-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,2300.0,25.89
+2014-11-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,2220.83,24.7
+2014-12-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,2200.0,24.34
+2015-01-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,2372.0,26.01
+2015-02-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,2500.0,27.32
+2015-03-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,2600.0,28.3
+2015-04-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,3067.0,32.84
+2015-05-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,3170.0,33.09
+2015-06-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,3013.0,31.03
+2015-07-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,3133.33,30.78
+2015-08-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,3050.0,29.82
+2015-09-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,2665.0,25.24
+2015-10-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,2651.0,25.71
+2015-11-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,2600.0,25.42
+2015-12-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,2619.0,25.64
+2016-01-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,2700.0,26.39
+2016-02-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,2700.0,26.47
+2016-03-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,2512.5,24.78
+2016-05-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,2651.0,26.35
+2016-06-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,2670.0,26.38
+2016-07-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,2729.38,26.97
+2016-08-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,3016.0,29.75
+2016-09-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,3068.0,30.35
+2016-10-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,3000.0,29.62
+2016-11-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,3600.0,35.43
+2016-12-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,3600.0,35.24
+2017-01-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,3135.0,30.2
+2017-02-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,3762.5,36.35
+2017-03-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,4000.0,38.89
+2017-04-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,4530.0,43.85
+2017-05-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,4898.0,47.53
+2017-06-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,4806.5,46.6
+2017-07-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,4300.0,41.39
+2017-08-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,3524.0,34.02
+2017-09-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,3064.0,29.75
+2017-10-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,2940.0,28.49
+2017-11-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,2995.0,28.9
+2017-12-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,2700.0,26.19
+2018-01-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,2808.0,27.29
+2018-02-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,2802.5,27.69
+2018-03-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,2627.5,25.96
+2018-04-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,2525.0,25.12
+2018-05-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,2512.5,25.05
+2018-06-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,2690.0,26.61
+2018-07-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,2580.0,25.7
+2018-08-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,2140.0,21.25
+2018-09-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,2100.0,20.83
+2018-10-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,1820.0,18.07
+2018-11-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,2150.0,20.85
+2018-12-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,2280.0,22.27
+2019-01-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,2305.0,22.66
+2019-02-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,2284.0,22.84
+2019-03-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,2288.0,22.85
+2019-04-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,2992.29,29.66
+2019-05-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,3640.0,36.06
+2019-06-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,3317.5,32.58
+2019-07-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,3648.0,35.42
+2019-08-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,3690.0,35.74
+2019-09-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,3650.0,35.2
+2019-10-15,Coast,Mombasa,Mombasa,Maize,Wholesale,90 KG,3700.0,35.7
+2006-01-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,1399.0,19.46
+2006-02-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,1488.0,20.75
+2006-03-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,1500.0,20.73
+2006-04-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,1540.0,21.66
+2006-05-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,1624.76,22.66
+2006-06-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,1550.91,21.09
+2006-07-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,1690.67,22.99
+2006-08-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,1585.75,21.84
+2006-09-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,1278.0,17.46
+2006-10-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,1293.25,17.93
+2006-11-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,1273.6,17.95
+2006-12-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,1245.0,17.9
+2007-01-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,1337.5,19.22
+2007-02-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,1322.5,19.18
+2007-03-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,1193.8,17.2
+2007-04-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,1177.78,17.19
+2007-05-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,1242.86,18.47
+2007-06-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,1204.44,18.17
+2007-07-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,1215.91,18.22
+2007-08-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,1197.73,17.96
+2007-09-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,1238.68,18.48
+2007-10-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,1229.32,18.51
+2007-11-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,1235.45,18.66
+2007-12-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,1069.17,17.02
+2008-01-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,1347.0,19.94
+2008-02-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,1340.0,19.1
+2008-03-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,1419.0,21.79
+2008-04-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,1516.0,24.66
+2008-05-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,1920.0,30.65
+2008-06-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,2165.0,33.75
+2008-07-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,1933.0,28.74
+2008-08-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,2081.0,30.88
+2008-09-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,2083.0,29.38
+2008-10-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,2469.0,32.68
+2008-11-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,2618.0,33.59
+2008-12-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,2411.0,31.15
+2009-01-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,2221.0,27.8
+2009-02-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,2445.0,30.75
+2009-03-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,2685.0,33.54
+2009-04-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,2731.0,34.18
+2009-05-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,3160.0,40.41
+2009-06-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,2854.0,36.59
+2009-07-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,2684.0,34.81
+2009-08-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,2616.0,34.35
+2009-09-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,2650.0,35.03
+2009-10-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,2406.0,31.97
+2009-11-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,2465.0,33.07
+2009-12-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,2692.0,35.8
+2010-01-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,2525.0,33.36
+2010-02-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,2155.0,27.93
+2010-03-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,2072.0,27.01
+2010-04-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,2048.0,26.74
+2010-05-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,1970.0,25.17
+2010-06-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,1948.0,24.18
+2010-07-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,1908.0,23.44
+2010-08-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,1800.0,22.44
+2010-09-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,1733.0,21.51
+2010-10-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,1600.0,19.94
+2010-11-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,1600.0,19.9
+2010-12-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,1792.0,22.3
+2011-01-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,2000.0,24.77
+2011-02-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,2087.0,25.65
+2011-03-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,2210.0,25.82
+2011-04-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,2500.0,29.87
+2011-05-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,3193.0,37.04
+2011-06-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,3800.0,43.06
+2011-07-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,4225.0,47.21
+2011-08-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,3810.0,41.14
+2011-09-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,3112.0,32.83
+2011-10-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,3058.0,30.67
+2011-11-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,3200.0,34.08
+2011-12-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,3200.0,37.65
+2012-01-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,3000.0,34.51
+2012-02-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,2700.0,32.65
+2012-03-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,2690.0,32.73
+2012-04-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,2775.0,33.46
+2012-05-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,4000.0,47.62
+2012-06-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,3650.0,43.07
+2012-07-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,3615.0,43.04
+2012-08-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,3387.0,40.37
+2012-09-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,3204.0,37.95
+2012-10-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,2940.0,34.69
+2012-11-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,2915.0,34.11
+2012-12-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,2993.0,34.78
+2013-01-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,3000.0,34.6
+2013-02-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,3000.0,34.36
+2013-03-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,3150.0,36.84
+2013-04-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,2980.0,35.6
+2013-05-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,2984.0,35.67
+2013-06-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,3020.0,35.36
+2013-07-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,3040.0,35.02
+2013-08-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,2915.0,33.47
+2013-09-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,2860.0,32.67
+2013-10-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,3151.0,37.09
+2013-11-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,3188.0,36.96
+2013-12-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,3008.0,34.86
+2014-01-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,3225.0,37.61
+2014-02-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,3235.0,37.49
+2014-03-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,3168.75,36.68
+2014-04-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,3105.0,35.77
+2014-05-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,3100.0,35.55
+2014-06-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,3344.0,38.06
+2014-07-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,3384.29,38.59
+2014-08-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,2962.5,33.66
+2014-09-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,2696.0,30.36
+2014-10-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,2402.22,27.04
+2014-11-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,2551.67,28.38
+2014-12-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,2217.14,24.53
+2015-01-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,2356.0,25.83
+2015-02-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,2395.0,26.17
+2015-03-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,2403.33,26.16
+2015-04-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,2833.0,30.33
+2015-05-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,3000.0,31.32
+2015-06-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,2850.0,29.35
+2015-07-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,2883.33,28.32
+2015-08-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,2950.0,28.85
+2015-09-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,2937.5,27.82
+2015-10-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,2809.0,27.25
+2015-11-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,2826.0,27.63
+2015-12-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,2672.0,26.16
+2016-01-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,2525.0,24.68
+2016-02-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,2655.0,26.03
+2016-03-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,2640.0,26.04
+2016-05-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,2651.0,26.35
+2016-06-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,2484.0,24.55
+2016-07-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,2661.5,26.3
+2016-08-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,2889.33,28.5
+2016-09-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,2945.0,29.13
+2016-10-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,2857.5,28.22
+2016-11-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,2900.0,28.54
+2016-12-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,2744.0,26.86
+2017-01-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,3042.0,29.31
+2017-02-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,3817.5,36.88
+2017-03-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,3900.0,37.92
+2017-04-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,4500.0,43.56
+2017-05-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,4704.0,45.65
+2017-06-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,4816.0,46.69
+2017-07-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,4320.0,41.59
+2017-08-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,3656.0,35.29
+2017-09-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,3564.0,34.6
+2017-10-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,3523.75,34.14
+2017-11-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,3469.0,33.47
+2017-12-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,3017.08,29.26
+2018-01-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,3000.0,29.15
+2018-02-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,3010.0,29.74
+2018-03-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,2961.25,29.26
+2018-04-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,2800.0,27.85
+2018-05-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,2788.0,27.8
+2018-06-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,2662.5,26.34
+2018-07-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,2600.0,25.9
+2018-08-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,2533.0,25.15
+2018-09-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,2160.0,21.42
+2018-10-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,2000.0,19.86
+2018-11-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,1922.5,18.65
+2018-12-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,2111.88,20.62
+2019-01-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,2296.0,22.58
+2019-02-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,2226.88,22.27
+2019-03-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,2327.5,23.24
+2019-04-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,3062.5,30.35
+2019-05-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,3513.0,34.8
+2019-06-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,3609.75,35.45
+2019-07-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,4032.0,39.15
+2019-08-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,3731.25,36.14
+2019-09-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,3955.0,38.14
+2019-10-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,3743.0,36.11
+2019-11-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,3585.0,35.2
+2019-12-15,Nairobi,Nairobi,Nairobi,Maize,Wholesale,90 KG,3580.0,35.26
+2015-01-15,Rift Valley,Nakuru,Nakuru,Maize,Wholesale,90 KG,2088.0,22.89
+2015-02-15,Rift Valley,Nakuru,Nakuru,Maize,Wholesale,90 KG,2100.0,22.95
+2015-03-15,Rift Valley,Nakuru,Nakuru,Maize,Wholesale,90 KG,2100.0,22.86
+2015-04-15,Rift Valley,Nakuru,Nakuru,Maize,Wholesale,90 KG,2500.0,26.77
+2015-05-15,Rift Valley,Nakuru,Nakuru,Maize,Wholesale,90 KG,2500.0,26.1
+2015-06-15,Rift Valley,Nakuru,Nakuru,Maize,Wholesale,90 KG,2650.0,27.29
+2015-07-15,Rift Valley,Nakuru,Nakuru,Maize,Wholesale,90 KG,2680.0,26.33
+2015-08-15,Rift Valley,Nakuru,Nakuru,Maize,Wholesale,90 KG,2600.0,25.42
+2015-09-15,Rift Valley,Nakuru,Nakuru,Maize,Wholesale,90 KG,2475.0,23.44
+2015-10-15,Rift Valley,Nakuru,Nakuru,Maize,Wholesale,90 KG,2401.0,23.29
+2015-11-15,Rift Valley,Nakuru,Nakuru,Maize,Wholesale,90 KG,2300.0,22.49
+2015-12-15,Rift Valley,Nakuru,Nakuru,Maize,Wholesale,90 KG,2300.0,22.52
+2016-01-15,Rift Valley,Nakuru,Nakuru,Maize,Wholesale,90 KG,2300.0,22.48
+2016-02-15,Rift Valley,Nakuru,Nakuru,Maize,Wholesale,90 KG,2525.0,24.75
+2016-03-15,Rift Valley,Nakuru,Nakuru,Maize,Wholesale,90 KG,2300.0,22.68
+2016-05-15,Rift Valley,Nakuru,Nakuru,Maize,Wholesale,90 KG,2525.0,25.1
+2016-06-15,Rift Valley,Nakuru,Nakuru,Maize,Wholesale,90 KG,2400.0,23.72
+2016-07-15,Rift Valley,Nakuru,Nakuru,Maize,Wholesale,90 KG,2620.0,25.89
+2016-08-15,Rift Valley,Nakuru,Nakuru,Maize,Wholesale,90 KG,2760.0,27.22
+2016-09-15,Rift Valley,Nakuru,Nakuru,Maize,Wholesale,90 KG,2700.0,26.71
+2016-10-15,Rift Valley,Nakuru,Nakuru,Maize,Wholesale,90 KG,2430.0,24.0
+2016-11-15,Rift Valley,Nakuru,Nakuru,Maize,Wholesale,90 KG,2365.0,23.28
+2016-12-15,Rift Valley,Nakuru,Nakuru,Maize,Wholesale,90 KG,2500.0,24.47
+2017-01-15,Rift Valley,Nakuru,Nakuru,Maize,Wholesale,90 KG,2620.0,25.24
+2017-02-15,Rift Valley,Nakuru,Nakuru,Maize,Wholesale,90 KG,3110.0,30.05
+2017-03-15,Rift Valley,Nakuru,Nakuru,Maize,Wholesale,90 KG,3480.0,33.83
+2017-04-15,Rift Valley,Nakuru,Nakuru,Maize,Wholesale,90 KG,3960.0,38.33
+2017-05-15,Rift Valley,Nakuru,Nakuru,Maize,Wholesale,90 KG,4000.0,38.82
+2017-06-15,Rift Valley,Nakuru,Nakuru,Maize,Wholesale,90 KG,4000.0,38.78
+2017-07-15,Rift Valley,Nakuru,Nakuru,Maize,Wholesale,90 KG,3500.0,33.69
+2017-08-15,Rift Valley,Nakuru,Nakuru,Maize,Wholesale,90 KG,3168.0,30.58
+2017-09-15,Rift Valley,Nakuru,Nakuru,Maize,Wholesale,90 KG,3016.0,29.28
+2017-10-15,Rift Valley,Nakuru,Nakuru,Maize,Wholesale,90 KG,2600.0,25.19
+2017-11-15,Rift Valley,Nakuru,Nakuru,Maize,Wholesale,90 KG,2520.0,24.31
+2017-12-15,Rift Valley,Nakuru,Nakuru,Maize,Wholesale,90 KG,2410.0,23.38
+2018-01-15,Rift Valley,Nakuru,Nakuru,Maize,Wholesale,90 KG,2460.0,23.91
+2018-02-15,Rift Valley,Nakuru,Nakuru,Maize,Wholesale,90 KG,2500.0,24.7
+2018-03-15,Rift Valley,Nakuru,Nakuru,Maize,Wholesale,90 KG,2500.0,24.7
+2018-04-15,Rift Valley,Nakuru,Nakuru,Maize,Wholesale,90 KG,2500.0,24.87
+2018-05-15,Rift Valley,Nakuru,Nakuru,Maize,Wholesale,90 KG,2401.0,23.94
+2018-06-15,Rift Valley,Nakuru,Nakuru,Maize,Wholesale,90 KG,2245.0,22.21
+2018-07-15,Rift Valley,Nakuru,Nakuru,Maize,Wholesale,90 KG,2010.0,20.02
+2018-08-15,Rift Valley,Nakuru,Nakuru,Maize,Wholesale,90 KG,1960.0,19.46
+2018-09-15,Rift Valley,Nakuru,Nakuru,Maize,Wholesale,90 KG,1810.0,17.95
+2018-10-15,Rift Valley,Nakuru,Nakuru,Maize,Wholesale,90 KG,1120.0,11.12
+2018-11-15,Rift Valley,Nakuru,Nakuru,Maize,Wholesale,90 KG,1500.0,14.55
+2018-12-15,Rift Valley,Nakuru,Nakuru,Maize,Wholesale,90 KG,1500.0,14.65
+2019-01-15,Rift Valley,Nakuru,Nakuru,Maize,Wholesale,90 KG,1500.0,14.75
+2019-02-15,Rift Valley,Nakuru,Nakuru,Maize,Wholesale,90 KG,1505.0,15.05
+2019-03-15,Rift Valley,Nakuru,Nakuru,Maize,Wholesale,90 KG,1848.0,18.45
+2019-04-15,Rift Valley,Nakuru,Nakuru,Maize,Wholesale,90 KG,2575.0,25.52
+2019-05-15,Rift Valley,Nakuru,Nakuru,Maize,Wholesale,90 KG,2940.0,29.12
+2019-06-15,Rift Valley,Nakuru,Nakuru,Maize,Wholesale,90 KG,2700.0,26.52
+2019-07-15,Rift Valley,Nakuru,Nakuru,Maize,Wholesale,90 KG,3420.0,33.2
+2019-08-15,Rift Valley,Nakuru,Nakuru,Maize,Wholesale,90 KG,3600.0,34.87
+2019-09-15,Rift Valley,Nakuru,Nakuru,Maize,Wholesale,90 KG,2975.0,28.69
+2019-10-15,Rift Valley,Nakuru,Nakuru,Maize,Wholesale,90 KG,2800.0,27.01
+2019-11-15,Rift Valley,Nakuru,Nakuru,Maize,Wholesale,90 KG,2800.0,27.49
+2019-12-15,Rift Valley,Nakuru,Nakuru,Maize,Wholesale,90 KG,2800.0,27.58
